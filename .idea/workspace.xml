@@ -56,6 +56,9 @@
       <recent name="E:\source\jieke-base" />
       <recent name="E:\source\jieke-base\119-100047701-专栏课-朱晔-Java 业务开发常见错误 100 例（完结）" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\source\jieke-base\002-100006701-专栏课-杨晓峰-Java 核心技术面试精讲（完结）" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -320,7 +323,28 @@
       <option name="project" value="LOCAL" />
       <updated>1730122428626</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="kafka">
+      <created>1730123594663</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1730123594663</updated>
+    </task>
+    <task id="LOCAL-00038" summary="kafka">
+      <created>1730123630321</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1730123630321</updated>
+    </task>
+    <task id="LOCAL-00039" summary="kafka">
+      <created>1730123764234</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1730123764234</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
