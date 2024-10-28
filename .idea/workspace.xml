@@ -5,7 +5,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="kafka">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/01｜导读：以前因后果为脉络，串起网状知识体系[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/02｜新的挑战：分布式系统是银弹吗？我看未必！[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/03｜CAP 理论：分布式场景下我们真的只能三选二吗？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/04｜注册发现： AP 系统和 CP 系统哪个更合适？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/05｜负载均衡：从状态的角度重新思考负载均衡[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/06｜配置中心：如何确保配置的强一致性呢？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/07｜分布式锁：所有的分布式锁都是错误的？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/08｜重试幂等：让程序 Exactly-once 很难吗？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/09 - 雪崩（一）：熔断，让故障自适应地恢复[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/10 - 雪崩（二）：限流，抛弃超过设计容量的请求[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/11｜雪崩（三）：降级，无奈的丢车保帅之举[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/12｜雪崩（四）：扩容，没有用钱解决不了的问题[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/13｜可观测性（一）：如何监控一个复杂的分布式系统？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/14｜可观测性（二）：如何设计一个高效的告警系统？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/15｜故障（一）：预案管理竟然能让被动故障自动恢复？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/16｜故障（二）：变更管理，解决主动故障的高效思维方式[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/17｜分片（一）：如何选择最适合的水平分片方式？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/18｜分片（二）：垂直分片和混合分片的 trade-off[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/18｜分片（二）：垂直分片和混合分片需要关注哪些因素？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/19｜复制（一）：主从复制从副本的数据可以读吗？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/20｜复制（二）：多主复制的多主副本同时修改了怎么办？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/21｜复制（三）：最早的数据复制方式竟然是无主复制？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/22｜事务（一）：一致性，事务的集大成者[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/23｜事务（二）：原子性，对应用层提供的完美抽象[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/24｜事务（三）：隔离性，正确与性能之间权衡的艺术[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/25｜事务（四）：持久性，吃一碗粉就付一碗粉的钱[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/26｜一致性与共识（一）：数据一致性都有哪些级别？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/27｜一致性与共识（二）：它们是鸡生蛋还是蛋生鸡？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/28｜一致性与共识（三）：共识与事务之间道不明的关系[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/29｜分布式计算技术的发展史：从单进程服务到 Service Mesh[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/30｜分布式存储技术的发展史：从 ACID 到 NewSQL[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/加餐｜期中测试解析[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/加餐｜期中测试：IM 系统设计实战[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/开篇词｜掌握好学习路径，分布式系统原来如此简单[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/春节加餐｜技术债如房贷，是否借贷怎样取舍？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/春节加餐｜深入聊一聊计算机系统的时间[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/春节加餐｜系统性思维，高效学习和工作的利器[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/期中测试答案｜这些问题你都答对了吗？[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/期中测试｜IM 系统设计实战[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/期末测试｜来赴一场满分之约吧！[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238-100104701-专栏课-陈现麟-深入浅出分布式技术原理（完结）/PDF/结束语 ｜在分布式技术的大潮流中自由冲浪吧！[天下无鱼][shikey.com].pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/01 - 软件建模与文档：架构师怎样绘制系统架构蓝图？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/02 - 高并发架构设计方法：面对高并发，怎么对症下药？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/03 - 短 URL 生成器设计：百亿短 URL 怎样做到无冲突？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/04 - 网页爬虫设计：如何下载千亿级网页？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/05 - 网盘系统设计：万亿 GB 网盘如何实现秒传与限速？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/06 - 短视频系统设计：如何支持三千万用户同时在线看视频？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/07 - 海量数据处理技术回顾：为什么分布式会遇到 CAP 难题？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/08 - 秒杀系统设计：你的系统可以应对万人抢购盛况吗？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/09 - 交友系统设计：哪种地理空间邻近算法更快？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/10 - 搜索引擎设计：信息搜索怎么避免大海捞针？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/11 - 反应式编程框架设计：如何使方法调用无阻塞等待？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/12 - 高性能架构的三板斧：分析系统性能问题从哪里入手？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/13 - 微博系统设计：怎么应对热点事件的突发访问压力？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/14 - 百科应用系统设计：机房被火烧了系统还能访问吗？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/15 - 限流器设计：如何避免超预期的高并发压力压垮系统？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/16 - 高可用架构的十种武器：怎么度量系统的可用性？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/17 - Web 应用防火墙：怎样拦截恶意用户的非法请求？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/18 - 加解密服务平台：如何让敏感数据存储与传输更安全？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/19 - 许可型区块链重构：无中心的区块链怎么做到可信任？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/20 - 网约车系统设计：怎样设计一个日赚 5 亿的网约车系统？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/21 - 网约车系统重构：如何用 DDD 重构网约车系统设计？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/22 - 大数据平台设计：如何用数据为用户创造价值？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/开篇词 - “附身”大厂架构师，身临其境设计高并发系统.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/期中测试 - 动手写一篇你自己的设计文档吧！.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/期中测试获奖用户名单及参考答案：通达系统架构设计.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/239-100105701-专栏课-李智慧-高并发架构实战课（完结）/PDF/结束语 - 一个架构师的一天.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -344,7 +410,28 @@
       <option name="project" value="LOCAL" />
       <updated>1730123764234</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="kafka">
+      <created>1730124161245</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1730124161245</updated>
+    </task>
+    <task id="LOCAL-00041" summary="kafka">
+      <created>1730124224119</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1730124224119</updated>
+    </task>
+    <task id="LOCAL-00042" summary="kafka">
+      <created>1730124295839</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1730124295839</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
