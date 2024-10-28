@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="kafka" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\enviroment\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="F:\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="H:\enviroment\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2o1is0IxY2QEDjTBZrAiqekzLjX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;aspect.path.notification.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/source/jieke-base&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\source\jieke-base" />
+      <recent name="E:\source\jieke-base\119-100047701-专栏课-朱晔-Java 业务开发常见错误 100 例（完结）" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="" />
+      <created>1730043685836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730043685836</updated>
+      <workItem from="1730043688102" duration="3423000" />
+      <workItem from="1730119449573" duration="3012000" />
+    </task>
+    <task id="LOCAL-00001" summary="spring50讲">
+      <created>1730043829902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730043829902</updated>
+    </task>
+    <task id="LOCAL-00002" summary="jvm高手">
+      <created>1730044058267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730044058268</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mysql高手">
+      <created>1730044354459</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730044354459</updated>
+    </task>
+    <task id="LOCAL-00004" summary="rocketmq高手">
+      <created>1730044479838</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730044479838</updated>
+    </task>
+    <task id="LOCAL-00005" summary="java新特性">
+      <created>1730044602749</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730044602749</updated>
+    </task>
+    <task id="LOCAL-00006" summary="java新特性">
+      <created>1730044763770</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730044763770</updated>
+    </task>
+    <task id="LOCAL-00007" summary="java新特性">
+      <created>1730045360473</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730045360473</updated>
+    </task>
+    <task id="LOCAL-00008" summary="java新特性">
+      <created>1730045500281</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730045500281</updated>
+    </task>
+    <task id="LOCAL-00009" summary="java新特性">
+      <created>1730045842288</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730045842288</updated>
+    </task>
+    <task id="LOCAL-00010" summary="java新特性">
+      <created>1730046019833</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730046019833</updated>
+    </task>
+    <task id="LOCAL-00011" summary="java新特性">
+      <created>1730046187752</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730046187752</updated>
+    </task>
+    <task id="LOCAL-00012" summary="java新特性">
+      <created>1730046284444</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1730046284444</updated>
+    </task>
+    <task id="LOCAL-00013" summary="java新特性">
+      <created>1730046360185</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1730046360185</updated>
+    </task>
+    <task id="LOCAL-00014" summary="java新特性">
+      <created>1730046424679</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1730046424679</updated>
+    </task>
+    <task id="LOCAL-00015" summary="java新特性">
+      <created>1730046525822</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730046525822</updated>
+    </task>
+    <task id="LOCAL-00016" summary="java新特性">
+      <created>1730046646596</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1730046646596</updated>
+    </task>
+    <task id="LOCAL-00017" summary="java新特性">
+      <created>1730046716236</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1730046716236</updated>
+    </task>
+    <task id="LOCAL-00018" summary="java新特性">
+      <created>1730046850621</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1730046850621</updated>
+    </task>
+    <task id="LOCAL-00019" summary="java新特性">
+      <created>1730047050736</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730047050736</updated>
+    </task>
+    <task id="LOCAL-00020" summary="数据结构与算法">
+      <created>1730119559523</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1730119559523</updated>
+    </task>
+    <task id="LOCAL-00021" summary="java核心面试">
+      <created>1730119710542</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1730119710542</updated>
+    </task>
+    <task id="LOCAL-00022" summary="架构">
+      <created>1730119811839</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1730119811839</updated>
+    </task>
+    <task id="LOCAL-00023" summary="秒杀">
+      <created>1730119920736</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1730119920736</updated>
+    </task>
+    <task id="LOCAL-00024" summary="架构">
+      <created>1730120293306</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1730120293306</updated>
+    </task>
+    <task id="LOCAL-00025" summary="大数据">
+      <created>1730120541959</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1730120541959</updated>
+    </task>
+    <task id="LOCAL-00026" summary="并发">
+      <created>1730120650905</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1730120650905</updated>
+    </task>
+    <task id="LOCAL-00027" summary="并发">
+      <created>1730120823028</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1730120823028</updated>
+    </task>
+    <task id="LOCAL-00028" summary="并发">
+      <created>1730120942650</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1730120942650</updated>
+    </task>
+    <task id="LOCAL-00029" summary="并发">
+      <created>1730121031859</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1730121031859</updated>
+    </task>
+    <task id="LOCAL-00030" summary="并发">
+      <created>1730121142984</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1730121142984</updated>
+    </task>
+    <task id="LOCAL-00031" summary="kafka">
+      <created>1730121267005</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1730121267005</updated>
+    </task>
+    <task id="LOCAL-00032" summary="kafka">
+      <created>1730121791222</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1730121791222</updated>
+    </task>
+    <task id="LOCAL-00033" summary="kafka">
+      <created>1730121996084</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1730121996084</updated>
+    </task>
+    <task id="LOCAL-00034" summary="kafka">
+      <created>1730122159636</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1730122159636</updated>
+    </task>
+    <task id="LOCAL-00035" summary="kafka">
+      <created>1730122290536</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1730122290536</updated>
+    </task>
+    <task id="LOCAL-00036" summary="kafka">
+      <created>1730122428626</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1730122428626</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="spring50讲" />
+    <MESSAGE value="jvm高手" />
+    <MESSAGE value="mysql高手" />
+    <MESSAGE value="rocketmq高手" />
+    <MESSAGE value="java新特性" />
+    <MESSAGE value="数据结构与算法" />
+    <MESSAGE value="java核心面试" />
+    <MESSAGE value="秒杀" />
+    <MESSAGE value="架构" />
+    <MESSAGE value="大数据" />
+    <MESSAGE value="并发" />
+    <MESSAGE value="kafka" />
+    <option name="LAST_COMMIT_MESSAGE" value="kafka" />
+  </component>
+</project>
