@@ -4,7 +4,94 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="kafka" />
+    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="kafka">
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/01-开篇词 (1讲)/00丨开篇词丨帮你从0到1深入学习区块链技术.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/02-第一章 浅说区块链基础 (8讲)/第01讲丨到底什么才是区块链？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/02-第一章 浅说区块链基础 (8讲)/第02讲丨区块链到底是怎么运行的？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/02-第一章 浅说区块链基础 (8讲)/第03讲丨浅说区块链共识机制.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/02-第一章 浅说区块链基础 (8讲)/第04讲丨区块链的应用类型.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/02-第一章 浅说区块链基础 (8讲)/第05讲丨如何理解数字货币？它与区块链又是什么样的关系？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/02-第一章 浅说区块链基础 (8讲)/第06讲丨理解区块链之前，先上手体验一把数字货币.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/02-第一章 浅说区块链基础 (8讲)/第07讲丨区块链的常见误区.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/02-第一章 浅说区块链基础 (8讲)/第08讲丨最主流区块链项目有哪些？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第09讲丨深入区块链技术（一）：技术基础.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第10讲丨深入区块链技术（二）：P2P网络.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第11讲丨深入区块链技术（三）：共识算法与分布式一致性算法.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第12讲丨深入区块链技术（四）：PoW共识.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第13讲丨深入区块链技术（五）：PoS共识机制.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第14讲丨深入区块链技术（六）：DPoS共识机制.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第15讲丨深入区块链技术（七）：哈希与加密算法.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第16讲丨深入区块链技术（八）： UTXO与普通账户模型.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第17讲丨去中心化与区块链交易性能.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第18讲丨智能合约与以太坊.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第19讲丨上手搭建一条自己的智能合约.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第20讲丨区块链项目详解：比特股BTS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第21讲丨引人瞩目的区块链项目：EOS、IOTA、Cardano.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第22讲丨国内区块链项目技术一览.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/03-第二章 深入区块链技术 (15讲)/第23讲丨联盟链和它的困境.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/04-第三章 数字货币与数字资产 (5讲)/第24讲丨比特币专题（一）历史与货币.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/04-第三章 数字货币与数字资产 (5讲)/第25讲丨比特币专题（二）：扩容之争、IFO与链上治理.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/04-第三章 数字货币与数字资产 (5讲)/第26讲丨数字货币和数字资产.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/04-第三章 数字货币与数字资产 (5讲)/第27讲丨弄懂数字货币交易平台（一）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/04-第三章 数字货币与数字资产 (5讲)/第28讲丨弄懂数字货币交易平台（二）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/05-第四章 区块链与当下互联网 (5讲)/第29讲丨互联网身份与区块链数字身份.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/05-第四章 区块链与当下互联网 (5讲)/第30讲丨区块链即服务BaaS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/05-第四章 区块链与当下互联网 (5讲)/第31讲丨数字货币钱包服务.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/05-第四章 区块链与当下互联网 (5讲)/第32讲丨区块链与供应链（一）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/05-第四章 区块链与当下互联网 (5讲)/第33讲丨区块链与供应链（二）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/06-第五章 如何从业区块链 (3讲)/第34讲丨从业区块链需要了解什么？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/06-第五章 如何从业区块链 (3讲)/第35讲丨搭建你的迷你区块链（设计篇 ）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/06-第五章 如何从业区块链 (3讲)/第36讲丨搭建你的迷你区块链（实践篇）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/07-尾声 (2讲)/尾声篇丨授人以鱼，不如授人以渔.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017-100005701-专栏课-陈浩-深入浅出区块链（完结）/07-尾声 (2讲)/新书首发 《区块链第一课：深入浅出技术与应用》.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/01-开篇词 (1讲)/00丨开篇词丨你为什么需要学管理？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/02-自我倾听篇 (7讲)/01丨多年前的那些工程师都去哪了？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/02-自我倾听篇 (7讲)/02丨我要不要做管理呢？内心好纠结！.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/02-自我倾听篇 (7讲)/03丨哪些人比较容易走上管理岗位？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/02-自我倾听篇 (7讲)/04丨我要不要转回去做技术呢？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/02-自我倾听篇 (7讲)/05丨作为技术管理者，我如何保持技术判断力？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/02-自我倾听篇 (7讲)/06丨我这样的风格能做管理吗？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/02-自我倾听篇 (7讲)/07丨我能做好管理吗，大家服我吗？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/03-角色认知篇 (3讲)/08丨管理到底都做哪些事儿？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/03-角色认知篇 (3讲)/09丨从工程师到管理者，角色都发生了哪些变化？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/03-角色认知篇 (3讲)/10丨新经理常踩的坑儿有哪些？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/04-管理规划篇（管理三部曲之一） (5讲)/11丨我刚开始带团队，从哪里着手呢？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/04-管理规划篇（管理三部曲之一） (5讲)/12丨如何界定我团队是干什么的呢？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/04-管理规划篇（管理三部曲之一） (5讲)/13丨如何为团队设定合理的目标呢？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/04-管理规划篇（管理三部曲之一） (5讲)/14丨如何来规划团队的组织结构呢？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/04-管理规划篇（管理三部曲之一） (5讲)/15丨我都要申请哪些资源呢？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/05-团队建设篇（管理三部曲之二） (9讲)/16丨团队建设该从哪里入手？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/05-团队建设篇（管理三部曲之二） (9讲)/17丨如何提升员工的个人能力？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/05-团队建设篇（管理三部曲之二） (9讲)/18丨如何提升员工的工作意愿和积极性？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/05-团队建设篇（管理三部曲之二） (9讲)/19丨如何兼顾团队分工的稳定性和灵活性？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/05-团队建设篇（管理三部曲之二） (9讲)/20丨有什么方法可以有效提升团队凝聚力吗？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/05-团队建设篇（管理三部曲之二） (9讲)/21丨如何物色和培养核心人才？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/05-团队建设篇（管理三部曲之二） (9讲)/22丨如何建设团队文化，营造团队氛围？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/05-团队建设篇（管理三部曲之二） (9讲)/23丨如何和低绩效员工谈绩效？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/05-团队建设篇（管理三部曲之二） (9讲)/24丨如何让团建活动不再“收效甚微”？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/06-理沟通篇 (7讲)/28丨管理沟通那些事儿.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/06-理沟通篇 (7讲)/29丨沟通经常鸡同鸭讲，说不到一块怎么办？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/06-理沟通篇 (7讲)/30丨如何掌控自己的情绪，以及如何管理情绪化的员工？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/06-理沟通篇 (7讲)/31丨我各方面做得都很好，就是做不好向上沟通.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/06-理沟通篇 (7讲)/32丨横向沟通和非职权影响力.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/06-理沟通篇 (7讲)/33丨向下沟通的常见实例解析.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/06-理沟通篇 (7讲)/34丨管理沟通上有哪些常见的坑儿呢？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/07-任务执行篇（管理三部曲之三） (3讲)/25丨多任务并行该如何应对？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/07-任务执行篇（管理三部曲之三） (3讲)/26丨如何确保项目的有效执行？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/07-任务执行篇（管理三部曲之三） (3讲)/27丨如何让流程机制得到有效的执行？.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/08-管理之路篇 (2讲)/35丨从空降谈管理方法论的积累.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/08-管理之路篇 (2讲)/36丨走出自己的管理之路.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/09-复习篇 (5讲)/复习课（一）丨管理方法论和角色认知.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/09-复习篇 (5讲)/复习课（三）丨团队建设.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/09-复习篇 (5讲)/复习课（二）丨管理规划.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/09-复习篇 (5讲)/复习课（五）丨管理沟通.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/09-复习篇 (5讲)/复习课（四）丨任务管理.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/018-100014301-专栏课-刘建国-技术管理实战 36 讲（完结）/10-新书首发 (1讲)/新书首发丨《知行：技术人的管理之路》.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a_del.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-100006701-专栏课-杨晓峰-Java 核心技术面试精讲（完结）/01-开篇词 (1讲)/00丨开篇词丨以面试题为切入点，有效提升你的Java内功.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002-100006701-专栏课-杨晓峰-Java 核心技术面试精讲（完结）/01-开篇词 (1讲)/00丨开篇词丨以面试题为切入点，有效提升你的Java内功.mp3" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +192,7 @@
       <workItem from="1730125577066" duration="1544000" />
       <workItem from="1730132614935" duration="51000" />
       <workItem from="1730232405690" duration="1589000" />
+      <workItem from="1730234678618" duration="112000" />
     </task>
     <task id="LOCAL-00001" summary="spring50讲">
       <created>1730043829902</created>
@@ -421,7 +509,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730126313936</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="15">
+      <option name="closed" value="true" />
+      <created>1730234043088</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1730234043088</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,6 +549,7 @@
     <MESSAGE value="大数据" />
     <MESSAGE value="并发" />
     <MESSAGE value="kafka" />
-    <option name="LAST_COMMIT_MESSAGE" value="kafka" />
+    <MESSAGE value="15" />
+    <option name="LAST_COMMIT_MESSAGE" value="15" />
   </component>
 </project>
