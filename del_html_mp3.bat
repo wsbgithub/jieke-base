@@ -16,6 +16,10 @@ for /r "%target_folder%" %%f in (*.mp3) do (
     echo Deleted: %%f
 )
 
+for /r "%target_folder%" %%f in (*.mp4) do (
+    del "%%f"
+    echo Deleted: %%f
+)
 echo All .html and .mp3 files have been deleted.
 endlocal
 pause
