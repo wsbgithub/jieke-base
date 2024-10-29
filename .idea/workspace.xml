@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="打卡对话">
+    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="AI">
       <change beforePath="$PROJECT_DIR$/del_html_mp3.bat" beforeDir="false" afterPath="$PROJECT_DIR$/del_html_mp3.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +107,7 @@
       <workItem from="1730125577066" duration="1544000" />
       <workItem from="1730132614935" duration="51000" />
       <workItem from="1730232405690" duration="1589000" />
-      <workItem from="1730234678618" duration="2294000" />
+      <workItem from="1730234678618" duration="2769000" />
     </task>
     <task id="LOCAL-00001" summary="spring50讲">
       <created>1730043829902</created>
@@ -424,14 +424,6 @@
       <option name="project" value="LOCAL" />
       <updated>1730126313936</updated>
     </task>
-    <task id="LOCAL-00049" summary="打卡对话">
-      <option name="closed" value="true" />
-      <created>1730235559492</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1730235559492</updated>
-    </task>
     <task id="LOCAL-00050" summary="打卡对话">
       <option name="closed" value="true" />
       <created>1730235937783</created>
@@ -456,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730236776731</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="AI">
+      <option name="closed" value="true" />
+      <created>1730237176465</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1730237176465</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +490,8 @@
     <MESSAGE value="15" />
     <MESSAGE value="kafka" />
     <MESSAGE value="打卡对话" />
-    <option name="LAST_COMMIT_MESSAGE" value="打卡对话" />
+    <MESSAGE value="AI" />
+    <option name="LAST_COMMIT_MESSAGE" value="AI" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
