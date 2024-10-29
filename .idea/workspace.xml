@@ -5,131 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="C++">
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/01｜编译和非编译模式：离开Vue工具，你还知道怎么用 Vue 3吗？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/01｜编译和非编译模式：离开Vue工具，你还知道怎么用Vue 3吗？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/02｜Webpack编译搭建：如何用Webpack初构建Vue 3项目？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/03｜从 Rollup 到 Vite：如何用 Vite 构建你的 Vue 3 项目？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/03｜从Rollup到Vite：如何用Vite构建你的Vue 3项目？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/04｜模版语法和JSX语法：你知道Vue可以用JSX写吗？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/05｜响应式开发操作：如何理解和使用Vue 3的响应式数据？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/06｜跨组件数据通信：常见的组件间数据通信方式有哪些？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/07｜项目代码规范：如何成为一名合格的团队协作工程师？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/08｜如何从零搭建自研的Vue组件库？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/09｜主题方案和基础组件：如何设计组件库的主题方案？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/10｜动态渲染组件：如何实现Vue的动态渲染组件？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/11｜布局组件：如何实现自研组件库的布局方案？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/12｜受控表单组件：如何开发受控的表单组件？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/13｜动态表单组件：怎么优雅地动态渲染表单？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/14｜代码单元测试：如何轻松地保证自己的代码质量？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/15｜定制运营拖拽组件：如何实现运营搭建页面的拖拽功能？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/16｜单页面应用：如何理解和实现单页面应用开发？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/17｜Koa.js：如何结合Koa.js开发Node.js Web服务？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/18｜Node.js服务端渲染页面：客户端渲染和服务端渲染有何区别？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/19｜全栈项目搭建：如何搭建Vue.js的前后台全栈项目？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/20｜数据库方案设计：如何设计运营搭建平台的数据库？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/21｜用户注册和登录：如何结合Vue 3和Koa.js实现注册登录？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/22｜物料组件的编译和管理：如何处理组件的多种模块格式？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/23｜运营物料的后台管理：如何全栈化实现列表分页的功能？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/24｜后台搭建数据源：如何设计运营搭建页面的数据结构？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/25｜后台搭建功能：如何设计和实现Vue.js运营后台的搭建功能？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/26｜页面编译和运行：如何设计Vue.js搭建页面的渲染策略？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/27｜后台发布流程：如何实现Vue.js搭建页面的发布流程？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/28｜前台页面版本化管理：如何实现搭建页面的迭代策略？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/29｜前台页面的渲染方式：如何设计前台页面的渲染策略？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/30｜前台页面的性能优化：如何实现前台页面的性能优化？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/31｜前台页面的日志监控：如何进行页面实时监控与问题定位？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/32｜单元测试：如何打造Vue.js和Node.js全栈项目的单元测试？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/33｜页面功能扩展：如何对Vue.js全栈项目做优雅扩展？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/34｜服务端功能扩展：如何对Vue.js全栈项目做服务端功能扩展？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/35｜多进程部署：如何最大限度利用服务器资源运行Node.js服务？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/36｜日志收集与问题排错：如何守护好Vue.js和Node.js的全栈项目？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/加餐｜基础篇思考题答疑.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/加餐｜增强篇思考题答疑.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/加餐｜实战篇思考题答疑（上）.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/加餐｜实战篇思考题答疑（下）.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/加餐｜进阶篇思考题答疑.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/围炉夜话｜Leader 眼里最有潜力的仔长什么样？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/围炉夜话｜你的职业起点和职业终点是什么？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/围炉夜话｜学了新技术，在公司用不上怎么办？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/开篇词｜为何掌握了技术API，依然在项目中处处掣肘？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/期末测试｜来赴一场满分之约！.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/269-100311101-专栏课-杨文坚-Vue 3 企业级项目实战课（完结）/结束语｜时刻做好“军备竞赛”，机会只留给有准备的人.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/01｜结构梳理：大并发下，你的数据库表可能成为性能隐患.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/02｜缓存一致：读多写少时，如何解决数据更新缓存不同步？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/03｜Token：如何降低用户身份鉴权的流量压力？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/04｜同城双活：如何实现机房之间的数据同步？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/05｜共识Raft：如何保证多机房数据的一致性？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/06｜领域拆分：如何合理地拆分系统？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/07｜强一致锁：如何解决高并发下的库存争抢问题？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/08｜系统隔离：如何应对高并发流量冲击？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/09｜分布式事务：多服务的2PC、TCC都是怎么实现的？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/10｜稀疏索引：为什么高并发写不推荐关系数据库？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/11｜链路追踪：如何定制一个分布式链路跟踪系统 ？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/12｜引擎分片：Elasticsearch如何实现大数据检索？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/13 - 实时统计：链路跟踪实时计算中的实用算法.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/14｜跳数索引：后起新秀ClickHouse.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/15｜实践方案：如何用C++自实现链路跟踪？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/16｜本地缓存：用本地缓存做服务会遇到哪些坑？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/17｜业务脚本：为什么说可编程订阅式缓存服务更有用？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/18｜流量拆分：如何通过架构设计缓解流量压力？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/19｜流量调度：DNS、全站加速及机房负载均衡.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/20｜数据引擎：统一缓存数据平台.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/21｜业务缓存：元数据服务如何实现？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/22｜存储成本：如何推算日志中心的实现成本？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/23｜网关编程：如何通过用户网关和缓存降低研发成本？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/24｜性能压测：压测不完善，效果减一半.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/开篇词｜高并发系统，技术实力的试金石.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/期末测验｜来赴一场100分之约！.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/答疑课堂｜思考题答案（一）.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/270-100309001-专栏课-徐长龙-高并发系统实战课（完结）/结束语｜为者常成，行者常至.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/01｜DDD小传：领域驱动设计为什么这么火？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/02｜迭代一概述：怎样开启一个麻雀虽小五脏俱全的项目？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/03｜事件风暴（上）：怎样和业务愉快地聊需求？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/04｜事件风暴（下）：事件风暴还有哪些诀窍？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/05｜领域建模实践（上）：怎样既准确又深刻地理解业务知识？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/06｜领域建模实践（下）：领域建模还有什么其他技巧？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/07｜领域建模原理：DDD领域建模和传统方法有什么区别？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/08｜数据库设计：怎样按领域模型设计数据库？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/09｜分层架构：怎样逃离“大泥球”？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/10｜代码实现（上）：要“贫血”还是要“充血”？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/11｜代码实现（中）：怎样创建领域对象、实现领域逻辑？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/12｜代码实现（下）：怎样更加“面向对象”？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/13｜迭代二概述：怎样更深刻地理解领域知识？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/14｜聚合的概念：怎样保护业务规则？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/15｜聚合的实现（上）：怎样对聚合进行封装？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/16｜聚合的实现（中）：怎样实现不变规则？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/17｜聚合的实现（下）：怎样用事务保护聚合？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/18｜值对象（上）：到底什么是值对象？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/19｜值对象（中）：值对象有什么好处？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/20｜值对象（下）：值对象和实体的本质区别是什么？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/21｜用“限定”建模：怎样简化一对多关联？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/22｜泛化建模（上）：领域知识更抽象怎么办？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/23｜泛化建模（中）：可以不用泛化吗？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/24｜泛化建模（下）：怎样权衡是否采用泛化？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/25｜泛化的实现（上）：怎样为泛化设计数据库？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/26｜泛化的实现（下）：怎样为泛化编写代码？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/27｜迭代三概述：怎样处理规模更大的系统？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/28｜限界上下文（上）：怎样为更大的需求建模？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/29｜限界上下文（中）：限界上下文怎样影响架构设计？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/30｜限界上下文（下）：限界上下文之间如何集成？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/31｜CQRS（上）：实现查询功能有什么诀窍？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/32｜CQRS（下）：CQRS还有哪些变化？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/33｜分析模式初探：怎样解决更复杂的问题？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/34｜落地经验：怎样在实际项目中推广DDD？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/加餐1｜小试牛刀，测测你对DDD的掌握情况.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/加餐2｜读这些书，帮你学懂DDD.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/加餐3｜这些书里，藏着高手们的“不传之秘”.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/加餐4｜建模作业点评直播回放&amp;获奖公示.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/加餐5｜DDD很难，学不会怎么办？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/开篇词｜带你吃透DDD.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/春节策划第1期｜小试牛刀，测测你对DDD的掌握情况.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/春节策划第2期｜读这些书，帮你学懂DDD.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/春节策划第3期｜这些书里，藏着高手们的“不传之秘”.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/期末测试｜来赴一场满分之约！.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/用户故事｜优秀软件方法学“漫游记”.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/271-100311801-专栏课-钟敬-手把手教你落地DDD（完结）/结束语｜DDD，是技术也是艺术.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/del_html_mp3.bat" beforeDir="false" afterPath="$PROJECT_DIR$/del_html_mp3.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +107,7 @@
       <workItem from="1730125577066" duration="1544000" />
       <workItem from="1730132614935" duration="51000" />
       <workItem from="1730232405690" duration="1589000" />
-      <workItem from="1730234678618" duration="4089000" />
+      <workItem from="1730234678618" duration="4853000" />
     </task>
     <task id="LOCAL-00001" summary="spring50讲">
       <created>1730043829902</created>
@@ -548,14 +424,6 @@
       <option name="project" value="LOCAL" />
       <updated>1730126313936</updated>
     </task>
-    <task id="LOCAL-00054" summary="C++">
-      <option name="closed" value="true" />
-      <created>1730237691898</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1730237691898</updated>
-    </task>
     <task id="LOCAL-00055" summary="C++">
       <option name="closed" value="true" />
       <created>1730238186609</created>
@@ -580,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730238589089</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="C++">
+      <option name="closed" value="true" />
+      <created>1730238789409</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1730238789409</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
