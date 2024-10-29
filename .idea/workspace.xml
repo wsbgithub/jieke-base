@@ -4,147 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="&#10;mysql">
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/01-开篇词 (1讲)/开篇词丨为什么我们要从零开发框架？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/02-实战第1关：从零开始 (4讲)/01丨net-http：使用标准库搭建Server并不是那么简单[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/02-实战第1关：从零开始 (4讲)/02丨Context：请求控制器，让每个请求都在掌控之中[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/02-实战第1关：从零开始 (4讲)/03丨路由：如何让请求更快寻找到目标函数？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/02-实战第1关：从零开始 (4讲)/04丨中间件：如何提高框架的可拓展性？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/02-实战第1关：从零开始 (4讲)/05｜封装：如何让你的框架更好用？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/02-实战第1关：从零开始 (4讲)/06｜重启：如何进行优雅关闭？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/03-实战第2关：框架核心 (5讲)/07丨目标：站在巨人肩膀，你的理想框架到底长什么样？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/03-实战第2关：框架核心 (5讲)/08丨自研or借力，集成Gin替换已有核心（上）[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/03-实战第2关：框架核心 (5讲)/09丨自研or借力：集成Gin替换已有核心(下)[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/03-实战第2关：框架核心 (5讲)/10丨面向接口编程：一切皆服务，服务基于协议(上)[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/03-实战第2关：框架核心 (5讲)/11丨面向接口编程：一切皆服务，服务基于协议(下)[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/03-实战第2关：框架核心 (5讲)/12丨结构：如何系统设计框架的整体目录？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/03-实战第2关：框架核心 (5讲)/13丨交互：可以执行命令行的框架才是好框架[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/03-实战第2关：框架核心 (5讲)/14丨定时任务：如何让框架支持分布式定时脚本？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/03-实战第2关：框架核心 (5讲)/15｜配置和环境：配置服务中的设计思路(上)[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/03-实战第2关：框架核心 (5讲)/16｜配置和环境：配置服务中的设计思路(下)[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/03-实战第2关：框架核心 (5讲)/17｜日志：如何设计多输出的日志服务？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/03-实战第2关：框架核心 (5讲)/加餐丨国庆特别放送：什么是业务架构，什么是基础架构？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/03-实战第2关：框架核心 (5讲)/加餐丨阶段答疑：这些代码里的小知识点你都知道吗？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/18丨一体化：前端和后端一定要项目分开吗[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/19丨提效：实现调试模式加速开发效率（上）[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/20丨提效：实现调试模式加速开发效率（下）[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/21丨自动化：DRY，如何自动化一切重复性劳动？（上）[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/22丨自动化：DRY，如何自动化一切重复性劳动？（下）[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/23丨管理接口：如何集成swagger自动生成文件？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/24丨管理进程：如何设计完善的运行命令？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/25丨GORM：数据库的使用必不可少（上）[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/26丨GORM：数据库的使用必不可少（下）[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/27丨缓存服务：如何基于Redis实现封装？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/28丨SSH：如何生成发布系统让框架发布自动化？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/29丨周边：框架发布和维护也是重要的一环[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/大咖助阵丨大明：抽象，抽象，还是抽象[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/04-实战第3关：完善功能(1讲)/大咖助阵丨飞雪无情：十年面试经验忠告，不要被框架所束缚[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/05-实战第4关：实战使用(3讲)/30丨设计先于实战：需求设计和框架搭建[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/05-实战第4关：实战使用(3讲)/31丨通用模块（上）：用户模块开发[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/05-实战第4关：实战使用(3讲)/32丨通用模块（下）：用户模块开发[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/05-实战第4关：实战使用(3讲)/33丨业务开发（上）：问答业务开发[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/05-实战第4关：实战使用(3讲)/34丨业务开发（下）：问答业务开发[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/213-100090601-专栏课-叶剑锋-手把手带你写一个Web框架（完结）/06-结束语(1讲)/结束语丨在语言的上升期投入最大热情，是最正确的投资[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/01-开篇词 (1讲)/开篇词｜如何设计一个高并发、高可用的秒杀系统？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/02-前期准备：技术选型与环境准备 (1讲)/01｜直面痛点：秒杀系统的挑战和设计原则[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/02-前期准备：技术选型与环境准备 (1讲)/02丨蓄势待发：秒杀系统架构设计和环境准备[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/03-系统动工：码出最简秒杀系统 (2讲)/03丨指日可待：一步一步搭建秒杀系统（上）[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/03-系统动工：码出最简秒杀系统 (2讲)/04丨指日可待：一步一步搭建秒杀系统（下）[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/04-稳定压倒一切：打造系统高可用 (2讲)/05丨勇于担当：秒杀的隔离策略[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/04-稳定压倒一切：打造系统高可用 (2讲)/06丨谋定后动：秒杀的流量管控[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/04-稳定压倒一切：打造系统高可用 (2讲)/07丨乾坤大挪移：秒杀的削峰和限流[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/04-稳定压倒一切：打造系统高可用 (2讲)/07丨加餐高并发场景：如何提升对突发事件的应急处理能力？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/04-稳定压倒一切：打造系统高可用 (2讲)/08丨化骨绵掌：降级、热点和容灾处理[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/05-准确无误：打造不超卖和公平的秒杀系统 (1讲)/09丨御敌国门外：黑产对抗——防刷和风控[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/05-准确无误：打造不超卖和公平的秒杀系统 (1讲)/10丨不差毫厘：秒杀的库存与限购[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/06-雷令风行：性能调优更上一层楼 (3讲)/11｜高性能优化：物理机极致优化[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/06-雷令风行：性能调优更上一层楼 (3讲)/12｜高性能优化：单机Java极致优化[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/06-雷令风行：性能调优更上一层楼 (3讲)/13｜优化番外篇：Vertx介绍及快速入门[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/07-尾声(1讲)/14丨百万级流量秒杀系统的关键总结[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/214-100091501-专栏课-佘志东-手把手带你搭建秒杀系统（完结）/07-尾声(1讲)/结束语丨秒杀系统之上的业务协同思考[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/01｜快速回顾：一个 C 程序的完整生命周期.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/02｜程序基石：数据与量值是如何被组织的？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/03｜计算单元：运算符是如何工作的？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/04｜控制逻辑：表达式和语句是如何协调程序运行的？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/05｜代码封装（上）：函数是如何被调用的？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/06｜代码封装（下）：函数是如何被调用的？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/07｜整合数据：枚举、结构与联合是如何实现的？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/08｜操控资源：指针是如何灵活使用内存的？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/09｜编译准备：预处理器是怎样处理程序代码的？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/10｜标准库：字符、字符串处理与数学计算.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/11｜标准库：深入理解标准 IO.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/12｜标准库：非本地跳转与可变参数是怎样实现的？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/13｜标准库：你需要了解的 C 并发编程基础知识有哪些？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/14｜标准库：如何使用互斥量等技术协调线程运行？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/15｜标准库：信号与操作系统软中断有什么关系？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/16｜标准库：日期、时间与实用函数.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/17｜标准库：断言、错误处理与对齐.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/18｜极致优化（上）：如何实现高性能的 C 程序？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/19｜极致优化（下）：如何实现高性能的 C 程序？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/20｜生产加速：C 项目需要考虑的编码规范有哪些？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/21｜生产加速：如何使用自动化测试确保 C 项目质量？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/22｜生产加速：如何使用结构化编译加速 C 项目构建？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/23｜实战项目（上）：一个简单的高性能 HTTP Server.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/24｜实战项目（下）：一个简单的高性能 HTTP Server.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/25｜可执行二进制文件里有什么？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/26｜进程是如何使用操作系统内存的？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/27｜编译器在链接程序时发生了什么？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/28｜程序可以在运行时进行链接吗？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/29｜C 程序的入口真的是 main 函数吗？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/30｜ABI 与 API 究竟有什么区别？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/31｜程序如何与操作系统交互？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/加餐 - 和 C 语言相比，C++ 有哪些不同的语言特性？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/大咖助阵｜LMOS：为什么说 C 语言是一把瑞士军刀？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/大咖助阵｜LMOS：用面向对象的思想开发 C 语言程序.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/大咖助阵｜Tony Bai：Go 程序员拥抱 C 语言简明指南.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/大咖助阵｜海纳：C 语言是如何编译执行的？（一）.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/大咖助阵｜海纳：C 语言是如何编译执行的？（三）.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/大咖助阵｜海纳：C 语言是如何编译执行的？（二）.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/大咖助阵｜罗剑锋：为什么 NGINX 是 C 编程的经典范本？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/开篇词｜时至今日，如何更好地拥抱现代 C 语言？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/春节策划一 - 构建自己的知识体系，让学习的“飞轮”持续转动.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/春节策划三 - JIT Compilation：一种特殊的程序执行方式.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/春节策划二 - 关于 C 语言，我有这些书籍想推荐给你.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/期中测试｜来检验下你的学习成果吧！.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/期末考试｜来赴一场满分之约吧！.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/结束语｜工业 4.0 时代，C 语言还有哪些应用场景？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/课前热身｜学习这门课前，你需要了解哪些知识？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/课堂答疑（一）｜前置篇、C 核心语法实现篇问题集锦.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/215-100100701-专栏课-于航-深入 C 语言和程序运行原理（完结）/PDF/课堂答疑（二）｜C 工程实战篇问题集锦.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/01-开篇词 (1讲)/开篇词｜为什么你要系统学习计算机的内存知识？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/02-课程导学 (3讲)/ppt[天下无鱼][shikey.com].txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/02-课程导学 (3讲)/导学（一）丨拆解CPU的基本结构和运行原理[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/02-课程导学 (3讲)/导学（三）丨一个CPU是怎么寻址的？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/02-课程导学 (3讲)/导学（二）丨汇编语言是怎么一回事？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/03-软件篇 (1讲)/01｜为什么可用内存会远超物理内存？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/03-软件篇 (1讲)/02丨X86体系结构中的实模式和保护模式[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/03-软件篇 (1讲)/03丨内存布局：应用程序是如何安排数据的？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/03-软件篇 (1讲)/04丨深入理解栈：从CPU和函数的视角看栈的管理[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/03-软件篇 (1讲)/05丨栈的魔法：从栈切换的角度理解进程和协程[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/03-软件篇 (1讲)/06丨静态链接：变量与内存地址是如何映射的？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/03-软件篇 (1讲)/07丨动态链接（上）：地址无关代码是如何生成的？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/03-软件篇 (1讲)/08丨动态链接（下）：延迟绑定与动态链接器是什么？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/03-软件篇 (1讲)/09丨深入理解堆：malloc和内存池是怎么回事？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/03-软件篇 (1讲)/10丨页中断：fork、mmap背后的保护神[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/03-软件篇 (1讲)/11丨即时编译：高性能JVM的核心秘密[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/03-软件篇 (1讲)/12丨内存虚拟化：云原生时代的奠基者[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/04-硬件篇(4讲)/13丨存储电路：计算机存储芯片的电路结构是怎样的？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/04-硬件篇(4讲)/14丨CPUCache：访存速度是如何大幅提升的？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/04-硬件篇(4讲)/15丨MESI协议：多核CPU是如何同步高速缓存的？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/04-硬件篇(4讲)/16丨内存模型：有了MESI为什么还需要内存屏障？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/04-硬件篇(4讲)/17丨NUMA：非均匀访存带来了哪些提升与挑战？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/05-自动内存管理篇(2讲)/18丨Java内存模型：Java中的volatile有什么用？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/05-自动内存管理篇(2讲)/19丨垃圾回收：如何避免内存泄露？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/05-自动内存管理篇(2讲)/20丨Scavenge：基于copy的垃圾回收算法[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/05-自动内存管理篇(2讲)/21丨分代算法：基于生命周期的内存管理[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/05-自动内存管理篇(2讲)/22丨G1GC：分区回收算法说的是什么？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/05-自动内存管理篇(2讲)/23丨PauselessGC：挑战无暂停的垃圾回收[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/05-自动内存管理篇(2讲)/24丨GC实例：Python和Go的内存管理机制是怎样的？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/06-结束语 (2讲)/结束语丨自主基础软件开发的那片星辰大海[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/加餐：不定期福利(2讲)/不定期福利第一期丨海纳：我是如何学习计算机知识的？[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/219-100094901-专栏课-海纳-编程高手必学的内存知识（完结）/加餐：不定期福利(2讲)/不定期福利第二期丨软件篇答疑[天下无鱼][shikey.com].pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="&#10;mysql" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,7 +105,7 @@
       <workItem from="1730125577066" duration="1544000" />
       <workItem from="1730132614935" duration="51000" />
       <workItem from="1730232405690" duration="1589000" />
-      <workItem from="1730234678618" duration="8130000" />
+      <workItem from="1730234678618" duration="8552000" />
     </task>
     <task id="LOCAL-00001" summary="spring50讲">
       <created>1730043829902</created>
@@ -562,14 +422,6 @@
       <option name="project" value="LOCAL" />
       <updated>1730126313936</updated>
     </task>
-    <task id="LOCAL-00061" summary="C++">
-      <option name="closed" value="true" />
-      <created>1730240442989</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1730240442989</updated>
-    </task>
     <task id="LOCAL-00062" summary="C++">
       <option name="closed" value="true" />
       <created>1730241287042</created>
@@ -594,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730242401029</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="&#10;mysql">
+      <option name="closed" value="true" />
+      <created>1730242860669</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1730242860669</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
