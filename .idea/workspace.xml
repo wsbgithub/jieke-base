@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="掘金">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/attachments/Qo_P06GxENgIg1_B/#01 消息管理平台项目背景.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +111,8 @@
       <workItem from="1730232405690" duration="1589000" />
       <workItem from="1730234678618" duration="14356000" />
       <workItem from="1731080195991" duration="1488000" />
-      <workItem from="1731124609737" duration="2977000" />
+      <workItem from="1731124609737" duration="5187000" />
+      <workItem from="1731242787976" duration="453000" />
     </task>
     <task id="LOCAL-00001" summary="spring50讲">
       <created>1730043829902</created>
@@ -429,22 +429,6 @@
       <option name="project" value="LOCAL" />
       <updated>1730126313936</updated>
     </task>
-    <task id="LOCAL-00065" summary="&#10;mysql">
-      <option name="closed" value="true" />
-      <created>1730242860669</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1730242860669</updated>
-    </task>
-    <task id="LOCAL-00066" summary="serach">
-      <option name="closed" value="true" />
-      <created>1730247078583</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1730247078583</updated>
-    </task>
     <task id="LOCAL-00067" summary="serach">
       <option name="closed" value="true" />
       <created>1730247916984</created>
@@ -461,7 +445,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731125997799</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="掘金">
+      <option name="closed" value="true" />
+      <created>1731127636745</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1731127636745</updated>
+    </task>
+    <task id="LOCAL-00070" summary="掘金">
+      <option name="closed" value="true" />
+      <created>1731128208476</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1731128208476</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,10 +471,16 @@
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="edd21997-caab-49cb-95b1-8f7c04b65b99" value="TOOL_WINDOW" />
+        <entry key="122253f6-e0e5-418b-9ed5-02cc97d0a201" value="EDITOR" />
       </map>
     </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="122253f6-e0e5-418b-9ed5-02cc97d0a201">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
