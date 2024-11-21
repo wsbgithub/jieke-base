@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="掘金">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="掘金" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -472,6 +470,8 @@
       <map>
         <entry key="edd21997-caab-49cb-95b1-8f7c04b65b99" value="TOOL_WINDOW" />
         <entry key="122253f6-e0e5-418b-9ed5-02cc97d0a201" value="EDITOR" />
+        <entry key="8f4c36fd-c335-4c8c-b291-b9bf8bbf5dac" value="EDITOR" />
+        <entry key="d4e87ed7-8958-461b-bdc1-c17688ab777d" value="EDITOR" />
       </map>
     </option>
     <option name="TAB_STATES">
@@ -481,7 +481,17 @@
             <State />
           </value>
         </entry>
+        <entry key="8f4c36fd-c335-4c8c-b291-b9bf8bbf5dac">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="d4e87ed7-8958-461b-bdc1-c17688ab777d">
           <value>
             <State />
           </value>
