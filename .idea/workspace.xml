@@ -4,8 +4,629 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="掘金git">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="掘金 nest">
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/1.1austin项目简介.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/1.2如何学习austin.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/1.3项目清爽干练commit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/img/3ZzDL0fOz8PbhrEz/1690962676486-351c1fc2-a9b1-4cc6-a072-537d991f67f2-011043.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/img/3ZzDL0fOz8PbhrEz/1690962779885-8e2f8f07-a39d-4af9-aa07-355430167fb7-263716.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/img/Qo_P06GxENgIg1_B/1648816455443-f13e4123-7084-4152-bb3f-4c4a98b1aa37-494796.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/img/Qo_P06GxENgIg1_B/1648816455480-a614eda4-60bf-45c5-8bae-3d56221f520a-107001.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/img/Qo_P06GxENgIg1_B/1678874243888-3ec62b2c-ae42-44a6-86d8-34b833361547-731709.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/img/Qo_P06GxENgIg1_B/1723707795121-b598a5e2-59bb-468f-80b0-ac32d437088f-672506.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/img/nGfOgrXybcrqG7JS/1649947163089-12458c81-52c2-41ca-80a9-0f426a903518-633477.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/img/nGfOgrXybcrqG7JS/1649947170109-703f38bd-fc48-457f-b4c8-ae1a83cabb45-563356.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/img/nGfOgrXybcrqG7JS/1678800660793-5fb3e86f-facb-47da-9582-1e4384191233-525123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/img/nGfOgrXybcrqG7JS/1678800693552-953b6f9a-c8c1-4fe6-9171-70aedb4e311b-916276.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/一、消息推送平台介绍/img/nGfOgrXybcrqG7JS/1687249335223-0d23e610-55d5-485d-991d-0abd93681bf3-232834.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/7.10短信回复了TD是真有效吗.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/7.1架构总体流程梳理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/7.2Austin消息推送Go版本.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/7.3发送层和逻辑层逻辑梳理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/7.4腾讯云账号配置参数.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/7.5邮件debug过程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/7.6发送短信&amp;&amp;消费者流程笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/7.7定时任务逻辑.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/7.8xxl-job部署token的问题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/7.9消息生产与消费-核心类图.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/0RxAS9MLXTmYSQNB/1652363802357-3864559d-1dbf-497c-9d20-0934eb63e53d-747632.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/0RxAS9MLXTmYSQNB/1652363821961-c525a6b5-8f0e-440e-8020-9cb2466e9518-224199.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/0RxAS9MLXTmYSQNB/1713498254078-8f012e46-5dbf-43cb-a9ac-1f4637a892d4-153032.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/7Eh3vXxEqK5RtABO/1671444118482-45764f08-ed0e-4b98-832a-3792d649afc2-819699.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/7Eh3vXxEqK5RtABO/1671444144921-bbd391ee-cd39-4648-a3e5-07f056f3e48a-722215.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/7Eh3vXxEqK5RtABO/1671531993900-e58a641d-8f27-4a68-ab68-c130ad2b2727-089633.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/A8MJm3CGN0beojyz/1660022238800-911f1c58-eb40-4b6b-8559-ab288bcf5e42-971964.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/A8MJm3CGN0beojyz/1660022247382-57bac6fc-a6d3-4e7c-a467-6c0f83ad265e-859075.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/A8MJm3CGN0beojyz/1660022261850-e2172db7-b325-4f4a-86d2-3c51fea2b01d-666489.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/A8MJm3CGN0beojyz/1660022271704-7e7f9f2e-70ea-4149-b5e0-cc7bfc067d32-455812.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/A8MJm3CGN0beojyz/1660022285249-fc8944d8-0fd4-4a2c-9a66-893957a6eabc-659942.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/A8MJm3CGN0beojyz/1660022299516-47d1509a-8873-4704-881f-bb6ac4217c29-728007.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/DjunCRbMBREBCN_X/1652777926768-e94f988a-6e97-4870-ad63-6fb2a94ee289-075760.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/I7XSfjUVDPwMpljj/1684812739643-22e8fe95-bad7-4170-b05d-b801f9918dd6-272703.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/I7XSfjUVDPwMpljj/1684812767602-452d6581-5210-4369-a3fc-ee9392da14d9-186615.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/I7XSfjUVDPwMpljj/1684813704247-0680dc5f-a66b-41e0-a7b9-50b8a72f58a7-630374.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/KM_xFC8OQD8HGa0F/1693993948292-1331dea2-1a01-4097-a795-de06a99a28d8-385294.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/kGKI_h1E4e_HrGd8/1692066529755-d4273549-ede4-432e-b0e8-5690c35aa57e-347193.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/uXJiSgC9WRd8B5oN/1652408590888-ee889543-c2e6-45fb-ac76-34298b742649-135283.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/uXJiSgC9WRd8B5oN/1652408638737-7d4b9a2b-9094-4fe7-a6f4-b55ec7fc23b9-624480.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/uXJiSgC9WRd8B5oN/1652408695208-10a65370-738b-4554-af8c-27e93c76e9f9-966684.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/zHSN76gkcDT4kSue/1668472527909-3a9dc3b9-8cc7-46ca-b5c6-523bfc80dca2-279745.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/zHSN76gkcDT4kSue/1668472562328-fc3fae1f-0d72-48a4-befa-9ccd820ee94d-093252.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/zHSN76gkcDT4kSue/1668513719342-2525dbb8-4b80-4615-8812-93851895440b-154301.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/七、Austin笔记分享/img/zHSN76gkcDT4kSue/1668513729524-bacf154f-bc8c-4297-b75e-72a1f09592c8-331164.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.10时间字段我为什么用int类型？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.11我在互联网使用数据库的经验.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.12消息推送接口设计.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.13接入层我是这样实现的.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.14为什么我要用Kafka.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.15数据隔离（消费层设计）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.16数据隔离（代码实现）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.17如何实现去重和幂等？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.18为什么消息推送要去重？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.19去重功能代码我是这样设计的.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.1为什么选用Maven管理项目.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.20你的去重功能貌似有问题吧.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.21黑炫酷的监控，是用了什么开源工具？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.22什么是分布式配置中心.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.23渠道分发器&amp;接入邮件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.24如何让日志打印更加优雅？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.25实现数据链路追踪要做什么准备？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.26什么是分布式日志组件？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.27纯后端我是如何搭建前端页面？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.28如何实现定时功能？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.29我在工作上哪些场景用定时功能的？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.2为什么项目是多模块的.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.30什么是分布式定时任务.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.30项目是怎么用分布式定时任务的？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.31发送千万级的文件消息，如何设计？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.32入门实时流处理平台（Flink）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.33应用发布重启怎么办？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.34如何优雅调整线程池参数？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.35如何接入企业微信_钉钉发送消息？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.36什么是延时队列.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.37为什么要实现限流.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.38什么是单元测试？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.39PUSH通知栏消息接入.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.3为什么选用SpringBoot作为技术框架_视频讲解：.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.40技术之外的PUSH消息.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.41动态流量配置短信渠道&amp;拉取回执.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.42可插拔配置（选看）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.43如何接入微信服务号模板消息.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.44如何接入微信小程序订阅消息.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.45使用docker-compose部署项目.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.46扫码微信登录（选看）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.47什么是数据仓库？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.48搭建数据仓库.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.49使用规则引擎提开发效率！.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.4Git的基础知识.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.5开发利器（工具包）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.6为什么我们要打日志.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.7如何发送一条短信.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.8为什么我选择MySQL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/3.9ORM框架选择.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/-L_PJdItzOKfTKMu/1680933363803-969bd9a7-09eb-40f4-ae16-e0e758f67a0b-674730.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/-L_PJdItzOKfTKMu/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-849870.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/-XrwY2zV8kWm224c/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-396088.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/2pSY9LXlxvH7IHGI/1649660566884-44facd84-b08f-4e8d-8c69-799801432926-410291.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/2pSY9LXlxvH7IHGI/1649660567209-1b84b2bf-74a9-4539-ad67-6ce58a87c662-206908.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/2pSY9LXlxvH7IHGI/1649660567359-27a5f0a0-f7b4-4e0b-a46f-6e02e1fcb811-591694.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/2pSY9LXlxvH7IHGI/1649660567360-34bb125d-e4e0-4fc3-8fa4-b2fe8838fa24-316098.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/2pSY9LXlxvH7IHGI/1649660567696-fb3db96e-f4d6-49ee-af8a-95e3713346d1-676867.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/2pSY9LXlxvH7IHGI/1649660628181-5993c728-0d0c-47ff-b3fe-f914573c162e-883475.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/2pSY9LXlxvH7IHGI/1649660796646-dd88d831-12eb-4a1f-aa88-8033eff60ee4-512780.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/2pSY9LXlxvH7IHGI/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-584075.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3FI5rUarFPi58h_j/1721966475294-2594043e-92b6-4c13-b932-95903b955366-683177.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3FI5rUarFPi58h_j/1721966475305-cbd8ea9c-0963-437d-941d-a0dc010aebd6-168626.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3FI5rUarFPi58h_j/1721966475318-48883acb-eaef-4257-af8e-668f65536222-802027.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3FI5rUarFPi58h_j/1721966475433-70e816ad-fe92-4237-9776-4fa354a1fc40-661238.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3FI5rUarFPi58h_j/1721966475506-47e4b5f3-aeb1-427a-808b-1bd3be7066b0-248471.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3JFN9wqWexnDUdDK/1649119166038-24cc1a45-fd29-4e79-b3d4-19ba1eaaf4c2-067763.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3JFN9wqWexnDUdDK/1649119166108-502cd814-f0e9-4681-802c-c82b186ea1f9-986894.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3JFN9wqWexnDUdDK/1649119166115-e8ce8db2-9261-4f98-8302-d741f9d352ab-513200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3JFN9wqWexnDUdDK/1649119166168-a2effbeb-c7e1-4223-80d8-c74b9fc8e131-804464.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3JFN9wqWexnDUdDK/1649119166375-23441dba-e5fc-4245-945f-60a230549f64-494169.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3JFN9wqWexnDUdDK/1649119166793-47f44db3-2590-41fd-8b4f-9a29b4afa6c2-706394.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3JFN9wqWexnDUdDK/1649139675289-931e649c-3e9a-408e-b27b-fd20f41e06e2-564305.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3JFN9wqWexnDUdDK/1649139675293-47e04a78-dcd6-47be-b4cb-ad497ddb9b02-874102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3JFN9wqWexnDUdDK/1649139675299-7965703a-fe64-407a-ab6a-41720a1f99e9-525215.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3JFN9wqWexnDUdDK/1649139675307-5faa5c11-8ce8-4936-81d4-8363d7430839-330104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3lzZ_A_iX6CuMRg1/1659535693073-804aad53-54b5-4405-9497-91c301906dd5-662182.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/3lzZ_A_iX6CuMRg1/1659535693159-903a5b5c-eae3-4f82-bcc3-95c3f5bffa31-046962.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/5r9hSAN8mwK0g8IY/1652275565843-e1f440e4-dbb6-46ae-9295-e22898a58556-851496.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/5r9hSAN8mwK0g8IY/1652275565865-05853f75-922f-4927-8c1b-8de62572b831-983340.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/5r9hSAN8mwK0g8IY/1652275565877-177e8ed1-2899-4e46-9993-67de7b57142f-942878.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/5r9hSAN8mwK0g8IY/1652275565888-f25a65e8-f521-4726-a1ea-353f8877d648-262246.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/5r9hSAN8mwK0g8IY/1652275566021-e058227d-a618-42a4-a960-c2035d83ff21-639094.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/5r9hSAN8mwK0g8IY/1652275566035-9ebc3db0-25cd-475e-96ca-41490c433bc4-471574.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/5r9hSAN8mwK0g8IY/1652275566042-e32a45ba-0be4-4ec8-97e1-ff96481c6e36-086968.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/5r9hSAN8mwK0g8IY/1652275566050-7e013e18-ca3e-4e48-8494-a4e8778f9f3b-541161.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/5r9hSAN8mwK0g8IY/1652275566326-3653d1ad-4d32-476f-9143-f62f4c256784-648124.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/74w1dFMPIpovCGHE/1649118941741-5bd11e0c-0e31-41be-b4d0-e77c39f785d2-725879.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/74w1dFMPIpovCGHE/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-359064.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1649655979756-e475627a-4085-43cc-9bf6-51a03cdfcb1b-678569.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1649655979788-c8d4ed8f-1eaa-441c-ad8e-aecc44467b89-430414.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1649655979860-e7eef9b6-f8f6-4de0-b551-ce08a1b31b04-029743.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1649655979901-eaa17472-587f-46d4-a517-78d8d6930cbc-757480.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1649655980105-bb733e32-ac59-43c5-b579-6d1097ad39a2-878424.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1649655980633-a0af7859-889d-4e7e-96fe-25fa39b1f544-899941.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1649655980753-8a3bd9a5-2b24-402a-90a4-7495c494d0bc-168932.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1649656287361-0067aacf-10a8-4464-a045-095d8cc2e975-564158.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1652193676049-8cb44c2c-8d32-4bc0-b23b-9d8141866d09-174461.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1652193676494-01a6d470-f55d-429e-8e65-05264446a455-242221.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1662022915090-7711c0b8-0e97-4a8d-86c3-7c6ee75b3772-052003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1692588272629-f844fcd8-0646-4395-935f-dac58b3e5804-754942.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1692588299251-4acf636a-5bf3-4f97-a8d9-c571df434327-015051.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1692588347343-da1d9fc1-f6a4-416a-8681-703c3a38d06b-798343.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/7m0sR3hgdl-D_wgG/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-144875.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/9YtwbqdELod7g-ey/1649082561207-d91e5181-cda6-41b3-bdae-72a2850e8765-366029.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/9YtwbqdELod7g-ey/1649082561314-ab7c29f3-f213-4c29-8927-86dea854d444-475867.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/9YtwbqdELod7g-ey/1649082562961-e09382ca-8fc5-4fe2-bc77-bd35d19d4139-772264.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/9YtwbqdELod7g-ey/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-811088.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/Bcq72UTXkY0tk4Ht/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-363930.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/Dd694p4GFc6Pydwf/1649083863215-7ca67ba6-4a5e-455c-a3a1-9166dc14fc12-130609.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/Dd694p4GFc6Pydwf/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-471454.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/DkJ9o5cqax8LFJZE/1671087117435-d742da03-3787-4070-8535-a09e0a1b1bda-555200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/DkJ9o5cqax8LFJZE/1671087293888-0d4ff130-8b0c-4fe7-98ee-428c30081169-149676.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/DkJ9o5cqax8LFJZE/1671087432453-92532ef2-36e1-4847-9365-7163f94306fe-979932.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/GaCFXeHxXgbjG71M/1649684997517-aeae4375-fbb8-4d34-b516-9ba968db7c45-808105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/GaCFXeHxXgbjG71M/1649684997521-35d589ea-f14c-4b1a-88f1-09ddf8ad35d1-222416.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/GaCFXeHxXgbjG71M/1649684997524-0208cd12-61df-4d65-baab-6c9a43d781e5-480670.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/GaCFXeHxXgbjG71M/1649684997557-cd5161a0-c848-4418-bd21-865ad29bc690-311799.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/GaCFXeHxXgbjG71M/1649684997580-3248518c-099a-4379-99e5-5b8e04586339-692389.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/GaCFXeHxXgbjG71M/1649685066221-ad6afc88-a84a-4930-9c33-b6c96d5de11b-261499.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/GaCFXeHxXgbjG71M/1649685103553-3f0bc5df-5911-4da0-91e6-aa41f6d83a41-934293.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/GaCFXeHxXgbjG71M/1649685103867-0d446235-9842-4dd5-a394-e21b11ca2915-314564.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/GaCFXeHxXgbjG71M/1649685104249-23ba9543-8610-4e40-a551-0149ce7c7b32-195442.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/GaCFXeHxXgbjG71M/1649685104341-d4af6686-deed-4d9d-a5db-43351db47711-900449.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/GaCFXeHxXgbjG71M/1649685104488-8d20cb1c-bd03-4467-a6ae-23a5bc5fda19-872805.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/GaCFXeHxXgbjG71M/1692588537259-ab83f995-733a-4783-8630-bde477547a43-323436.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/HBi6ybaQoql7c9hw/1655348372584-fe590998-1ff2-43cd-a029-49ac49910ac2-004067.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/HBi6ybaQoql7c9hw/1655348372629-7c3755d4-daa0-4991-a756-d18a493a6466-936715.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/HBi6ybaQoql7c9hw/1655348372670-f16b192e-4936-48cb-9ce5-9d942297cb3a-495315.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/HBi6ybaQoql7c9hw/1655349237274-f3c8b113-4365-4376-b98a-8decc7d22b97-197856.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/HBi6ybaQoql7c9hw/1655349237292-9471bdd0-8538-4f5c-803b-6bd9d094081a-754520.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/HBi6ybaQoql7c9hw/1655349237294-970f3a91-624d-4887-afcf-ccfcf399d325-310256.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/HBi6ybaQoql7c9hw/1655349237297-65ee9eee-46e3-40d1-9cc0-91477fa388d0-099929.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/HBi6ybaQoql7c9hw/1655349237376-4bdd8105-9ef3-475f-9176-f2ae6e0cb10c-700648.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/HBi6ybaQoql7c9hw/1655349237726-579d6602-d9b9-4140-8f74-bb5e2889689f-493144.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/HBi6ybaQoql7c9hw/1655349237739-735b7fea-380c-4a1d-83d7-a216da131e82-935754.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/HBi6ybaQoql7c9hw/1655349237844-0f01b330-dacd-4991-95a9-ec00ca0b3e3b-549411.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/HBi6ybaQoql7c9hw/1655349238071-d3e0e2d3-ff42-40c7-bfb9-491d723c8e70-762812.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/HBi6ybaQoql7c9hw/1655349298835-2ea220c1-8f42-4233-aa5d-9ab98f140878-743180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/K_juCt-tuDV1wSMF/1652367489904-6a2a60cb-5a95-46ef-9a1e-b53b04a2bc65-951749.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/K_juCt-tuDV1wSMF/1652367490259-4231f1cb-3f4b-423e-8b2f-67910abb0d1e-025503.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/K_juCt-tuDV1wSMF/1652367490660-c8346d6a-f7f4-4955-9141-6f6a156ff48d-265507.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/K_juCt-tuDV1wSMF/1652367491299-4d03d128-74ce-4346-bda8-6e62cccd2a98-611710.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/K_juCt-tuDV1wSMF/1652367491341-b717dbbe-034b-490c-95ac-5442ae741d32-355774.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/K_juCt-tuDV1wSMF/1652367491619-17c7dd97-04b8-4381-9457-c42c20f57d55-583282.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/KhbhULqIuUZlmo30/1649079184949-f50fc28d-cfa3-431e-a235-5d8c0ef9ca32-402755.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/KhbhULqIuUZlmo30/1649079184997-77cba1bd-ddca-4cdf-9652-ecf68a5379aa-306401.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/KhbhULqIuUZlmo30/1649079262860-6ebd5c72-155b-4ff1-bee2-0bec0cf27514-447715.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/KhbhULqIuUZlmo30/1649079262888-3c460efe-f1bf-422f-b836-5dd1d1e00b89-487677.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/KhbhULqIuUZlmo30/1649079388381-13773485-6746-4586-80da-3e1abf90776e-923073.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/KhbhULqIuUZlmo30/1649079388384-e6f2d6f3-8751-4ebe-8a48-ccc5d1557ec6-226581.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/KhbhULqIuUZlmo30/1649079388400-826ad320-f71d-40a1-b0cd-d021735d37ad-440473.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/KhbhULqIuUZlmo30/1649079388426-451be295-a071-42b4-9a55-2004a4636d20-426026.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/KhbhULqIuUZlmo30/1649079388449-d0902dcb-bee9-4526-a95b-1ad6977ba8fe-125787.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/KhbhULqIuUZlmo30/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-024759.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/Ld-FGENEeehyVET1/1649408197861-fac29121-3317-473d-9e13-2c22897286a1-777665.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/Ld-FGENEeehyVET1/1649408197925-67210b72-e5ae-4349-8fad-2a01edd3f52e-723184.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/Ld-FGENEeehyVET1/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-440273.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/NyW_Sh_lNMvlcHgw/1649742495764-3c8c0a11-5585-4c62-b1dc-521a0a186a8a-365637.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/NyW_Sh_lNMvlcHgw/1649742495784-8b568206-b280-4560-b470-aaf786e3649d-194877.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/NyW_Sh_lNMvlcHgw/1649742495971-bbe1153a-1b4d-43c1-b823-82dc150353bc-015443.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/NyW_Sh_lNMvlcHgw/1649742496231-311939be-6263-472d-9db6-6664295d3e4a-019978.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/NyW_Sh_lNMvlcHgw/1649742496768-0d4c6517-23e3-47d8-b93d-fad48237975f-953035.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/NyW_Sh_lNMvlcHgw/1649742497890-7a67b4c0-b956-413f-9ca6-c76670282935-265852.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/NyW_Sh_lNMvlcHgw/1649742497896-4e2cc4b9-489c-436b-9a27-a3f7dfd2e891-331103.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/NyW_Sh_lNMvlcHgw/1649742514907-abf19d8a-946e-4693-8081-37b6cbbf3b44-790063.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/PbenrLpojNboQ3V7/1649771505415-17e4c998-7729-49a0-8fd6-2decdb94787d-752744.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/PbenrLpojNboQ3V7/1649771505415-33f881d1-62f3-407b-bae6-237e7b9109b6-215702.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/PbenrLpojNboQ3V7/1649771505516-4c37bfc1-5d8d-490d-8737-be9ac8c11e2b-493297.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/PbenrLpojNboQ3V7/1649771505616-c0518bd9-1845-494e-ac99-98988f5459f1-752427.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/PbenrLpojNboQ3V7/1649771505975-6439af99-af46-4312-a8e0-2342c81af2fa-293746.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/PbenrLpojNboQ3V7/1649771506415-ed7d20a9-0ada-4e36-97fd-ccaed6e0d8f1-443208.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/PbenrLpojNboQ3V7/1649771506644-7e7c2e5a-62ab-4de7-b0da-16a13545d691-653051.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/PbenrLpojNboQ3V7/1649771507599-530ca824-770e-43fb-b9ef-a3bd1dc2a101-010923.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/PbenrLpojNboQ3V7/1649771508014-3e7e436d-f706-4493-904e-7fdab96ac137-670205.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/PdyFtfquOhZZI48L/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-643323.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/SKhTvRfRY2L0KT1v/1662301599423-05b3465c-6641-4afb-94ea-8e20796c96f9-113932.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/SKhTvRfRY2L0KT1v/1678266541424-a61ec2c3-881f-4c62-9e48-3108f8960fd8-961757.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/SKhTvRfRY2L0KT1v/1678266541515-5c9db970-5dc1-4a7f-a145-fc7010d16a77-366516.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/SKhTvRfRY2L0KT1v/1678266541544-c8baf766-d641-43e4-b297-dc4e0740a2e3-020063.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/SKhTvRfRY2L0KT1v/1678266541611-4137ba11-c213-4432-ac3e-5505ab125999-766742.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/SKhTvRfRY2L0KT1v/1678266541619-38c2f272-c649-4e4d-bf33-ad1ed0b6fe0d-117764.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/SKhTvRfRY2L0KT1v/1711013968786-12320774-6dbb-47bd-91f1-19b30c200ed7-739302.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/SKhTvRfRY2L0KT1v/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-397950.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649729251732-aa8052e2-3ae3-46e4-9c0b-1937b4242da7-860680.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649729252259-4e7f213f-baa9-4666-96e1-ced07a01d509-678049.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649729252409-f665c959-26ad-4378-9d79-d4dba1e16515-958463.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649729252730-71311d9c-7a38-44e2-bca0-7e341217482e-179490.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649729252970-dd76912c-cf89-4fe2-ac39-84bdb8d574f6-576515.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649729253570-27b19110-a037-45fe-b7bd-896c19f5070e-826172.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649729255742-261e5146-5b65-4000-a84a-ab4ee572b56d-942831.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649729256208-9483bfaf-95e4-48bf-a29f-32ebd0d01733-994245.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649729257127-886828ce-501a-46a8-8959-31a34085f6cc-935809.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649729257698-77d6d841-8dbb-4e62-88ec-4b85253831ad-499521.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649729260913-ab4ac614-2aa8-41f0-bdd7-7f5f6fc3616c-954002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649729743513-d752bc6e-30f6-4a4f-9ee1-c62cd7470b15-244858.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649730171268-202ff4f8-32aa-444a-9844-47c109773f07-323335.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649730194973-659c6692-08f2-493c-b620-95980ce030d3-230468.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/StgfqBj2fd6hmBkz/1649730263144-ade772fb-cbad-4f73-929b-6ab314445795-808140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/VM1zPNWaVyZN-lBX/1649727344448-ab2b5396-111c-44fc-b0c5-5698b94015f7-355748.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/VM1zPNWaVyZN-lBX/1649727344591-44582f91-13bd-4636-a9d7-2e5f8f6f34bf-836999.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/VM1zPNWaVyZN-lBX/1649727344621-078705c8-1eff-4f27-9015-e318ed6ee5af-272450.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/VM1zPNWaVyZN-lBX/1649727344621-b0bbec84-219e-4e73-9dfb-2a5b3e6950f1-123634.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/VM1zPNWaVyZN-lBX/1649727344975-c2b28417-bf84-4a9d-b40c-bad96572644b-621566.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/VM1zPNWaVyZN-lBX/1649727345554-7fd233be-c92d-4689-a757-83ab496947f6-548941.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/VM1zPNWaVyZN-lBX/1649727347239-6ccf21a6-40ef-4b2e-bfe0-2c24fd2683c1-484556.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/XwYKWpbErN7nJT0N/1650726445908-b49749ca-4688-43f7-ba97-a871f03d707d-613479.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/XwYKWpbErN7nJT0N/1650726445979-dd7546d7-ea16-4efd-984d-faba513332e3-602087.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/XwYKWpbErN7nJT0N/1650726445991-246b66b3-8b07-450d-807d-1652bb81c71e-740576.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/XwYKWpbErN7nJT0N/1650726446002-026cef8c-9084-48ff-97b7-df95eb9260a6-803124.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/XwYKWpbErN7nJT0N/1650726446072-09341cff-4676-4cec-8d44-ecc6ca87cf53-394674.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/XwYKWpbErN7nJT0N/1650726446592-c36feef0-c377-4ddb-b5db-b4dce0e05395-383502.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/XwYKWpbErN7nJT0N/1650726446653-eb2a067b-6c86-4541-a16c-56159cd95ed4-985563.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/XwYKWpbErN7nJT0N/1650726588136-f93b9f78-16a8-444c-b8a3-b12f6d990596-408484.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/XwYKWpbErN7nJT0N/1650726588164-6a18f18f-d35b-4e72-9c83-b3240604a493-613155.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/XwYKWpbErN7nJT0N/1650726588190-e010a191-4cb0-4f2d-b21d-f1b7b1b99938-284309.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/XwYKWpbErN7nJT0N/1650726588199-46804caa-82f8-4e86-b426-f0d2ea1cf8d2-605759.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/XwYKWpbErN7nJT0N/1650726588263-e6f18b25-9039-43a5-a2c5-fa6f5e67d5cd-010983.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/XwYKWpbErN7nJT0N/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-645887.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YANM2oKigFL1qWfa/1649685784827-b0746a0b-9ce9-4bc4-8b9c-3b8611f47d43-810545.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YANM2oKigFL1qWfa/1649685784899-6e947c67-03b8-421a-bcb6-42a14e3708e3-301400.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YANM2oKigFL1qWfa/1649685784918-294d49f3-d485-45b2-9168-4d61a75f857f-742679.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YANM2oKigFL1qWfa/1649685784925-bc7867c9-652d-4b80-988a-e09b56e789c3-536153.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YPE9Yd7ouIKIuWwf/1649655449124-1052f8cf-e93c-4a28-99c0-f2ef6eaf32bf-052430.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YPE9Yd7ouIKIuWwf/1649655449265-c9020010-35c4-46bd-9d7d-f63bbde475c2-758116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YPE9Yd7ouIKIuWwf/1649655449348-fe1886bc-b2d2-4de6-9ec0-472e94b6ebba-642944.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YPE9Yd7ouIKIuWwf/1649655762363-b372a043-1c03-47c0-8020-475aa0e5f378-103402.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YPE9Yd7ouIKIuWwf/1721965983802-c38d9e61-c8c3-4c51-845c-3cfd3caf45d1-529638.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YPE9Yd7ouIKIuWwf/1721965983855-2595e84f-6867-47a7-93c5-92f87f1abc32-661219.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YPE9Yd7ouIKIuWwf/1721965983934-21ce92e7-6631-45ae-94fe-b487a9776ff4-356328.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YPE9Yd7ouIKIuWwf/1721965983962-52aa5426-57ae-4e43-8efa-134f14619dc0-975743.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YPE9Yd7ouIKIuWwf/1721965984142-a5a4e24b-4d07-4692-a31f-74012e5ae9e3-429237.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/YPE9Yd7ouIKIuWwf/1721965984623-f21f63c6-a566-4383-8ed1-5b4034c951f9-932273.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/ZlfmfZE36_AouUdX/1649399557534-0d983579-9558-437e-8b8d-060a284bdd3f-012520.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/ZlfmfZE36_AouUdX/1649399557753-f8d29ece-e518-48e3-916e-f9eed5867ccf-825486.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/ZlfmfZE36_AouUdX/1649399645570-d8aa6343-7930-42d4-ad8e-48ce38a909e7-473330.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/ZlfmfZE36_AouUdX/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-838825.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/asdj5DEnHEp5Co1R/1649756306408-4ecff1f7-a836-4616-9f92-e254d2d87034-854583.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/asdj5DEnHEp5Co1R/1649756306680-49f09d41-6060-44fb-a721-b146ff84d9dc-868875.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/asdj5DEnHEp5Co1R/1649756306691-051fb802-1905-4d1f-9be9-7c3a123d15cb-192335.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/asdj5DEnHEp5Co1R/1649756306990-b6c7abb3-177d-4654-82c2-1a4a86e20d73-736382.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/asdj5DEnHEp5Co1R/1649756307608-7540732c-bff3-450f-9835-95a1d194c2bb-055566.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/asdj5DEnHEp5Co1R/1650379802268-3a19d39a-778b-4a6e-914e-01068d40a101-030692.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/asdj5DEnHEp5Co1R/1650379802533-182e7d96-9fd3-4afe-ac8e-c2b17eebab74-636719.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/asdj5DEnHEp5Co1R/1655461729285-ab7da786-d4ab-4ea0-b8ed-a5a145ddc1ad-805894.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/asdj5DEnHEp5Co1R/1655461729287-ba4db93a-2b9d-47ad-9ace-8276ebc53ec2-310148.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/asdj5DEnHEp5Co1R/1655461729348-3df1d3bc-f99f-4ee8-ac5b-ddb0a547f678-513732.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/asdj5DEnHEp5Co1R/1655461808861-eb8b0c58-ca66-4bda-8b4f-3f89bb24e00b-815796.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/asdj5DEnHEp5Co1R/1655461871437-989d8991-96d6-40f8-a9a3-52ca8cfea1da-508349.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/asdj5DEnHEp5Co1R/1655461886565-44730213-1a66-4e95-abdf-f8b13941bb2a-317737.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/bVnZLgEkx05gKFRk/1649640218496-3fe77cc0-b915-46cc-85d1-991354fe59bd-639124.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/bVnZLgEkx05gKFRk/1649640218498-ed5d3eed-95a4-4a69-b807-4b8ad25e417f-038342.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/bVnZLgEkx05gKFRk/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-988617.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/biAsQw6wdxADvX0v/1649642832837-3d101d3c-3a92-47dc-ba48-476065ac5c68-590163.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/biAsQw6wdxADvX0v/1649642832868-a570d633-3d22-439f-8689-0846c54a252d-048628.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/biAsQw6wdxADvX0v/1649642832928-fe5075a3-a39d-47e2-91f1-cfd87080c166-850577.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/biAsQw6wdxADvX0v/1649642833074-b5f5ec66-3658-43f5-a298-44256ebfc8c6-368269.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/biAsQw6wdxADvX0v/1649643153219-fc8e0205-3fe5-4b03-9987-b18b385fd3a6-953585.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/biAsQw6wdxADvX0v/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-086974.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/cFpsYhCoykceQjlS/1649742707292-b76fc160-7b02-4c6f-ba23-e85eb3935735-154444.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/cFpsYhCoykceQjlS/1649742707579-8c3fc33e-7437-4410-b314-528accbf9d6c-902056.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/cFpsYhCoykceQjlS/1649742707614-5dc1f8b6-2e4a-49fd-9b6e-4d4ae8b4bef5-204708.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/cFpsYhCoykceQjlS/1649742841485-10d3b2b5-55b4-4cda-951a-d872e673d7ff-567577.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/cFpsYhCoykceQjlS/1692588969112-42dfac14-d775-4426-9463-aa6d5512b1c3-155227.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/cFpsYhCoykceQjlS/1692589044264-cab87cd0-c7d3-4d9b-9ff7-10e4444cdf4b-709383.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/dUpqvZXdehhqbEvO/1675606020770-8df5d7f6-1e06-4697-a569-d2bfb068dc66-830692.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/dUpqvZXdehhqbEvO/1675606279135-06cea474-c8de-4375-8113-b5b5ec404ef1-445766.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/dUpqvZXdehhqbEvO/1721966641877-9f1277ee-75f8-437c-8d1b-03847035f0b2-600890.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/dUpqvZXdehhqbEvO/1721966641907-34e3da64-0aa5-453b-adad-8a0df16d899d-820469.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/dUpqvZXdehhqbEvO/1721966641909-a4bc2cbe-6bcf-4812-96c4-db1f5ad53ea2-221196.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/g1ihNB8hnQhr5xcv/1649401615540-4cfc271e-d636-4555-9130-4d3d95a8730f-371014.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/g1ihNB8hnQhr5xcv/1649401615542-03d92da3-e223-44af-92e4-dd4439706663-931635.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/g1ihNB8hnQhr5xcv/1649401615566-bf43bffc-e7ef-4c04-9544-8517f9695715-323952.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/g1ihNB8hnQhr5xcv/1649401616401-657234a5-9274-4959-895c-a9130905d047-225663.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/g1ihNB8hnQhr5xcv/1649401616412-d3c6b548-33e7-4b19-8f1b-c620adef06a6-611729.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/g1ihNB8hnQhr5xcv/1649401616869-5c5dd748-1b67-4feb-9639-67ee9ab1f953-943411.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/g1ihNB8hnQhr5xcv/1649402285824-4ceb5e04-2e76-4a52-96c2-9405a9886c98-889443.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/g1ihNB8hnQhr5xcv/1705376738218-42ffaca1-6b5f-4629-9418-88bfa8849fcd-834694.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/g1ihNB8hnQhr5xcv/1705376774561-28db37d9-e6b5-4bb4-b086-19027b6ddec4-286882.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/g1ihNB8hnQhr5xcv/1705376841171-e5024aef-3fed-4323-a1fc-e91497c6e230-338073.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/g1ihNB8hnQhr5xcv/1705376912534-189e7df9-103b-435c-86ad-34d420de3de2-150037.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/g1ihNB8hnQhr5xcv/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-694853.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/gve1ZNad7icSnBjz/1721966621546-f0b210e7-834a-412f-9527-e4cba9346b55-285858.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/iZBV_nkpJzurSDeZ/1649407821523-9f1eefed-02c5-4bff-94e8-395e24153383-389011.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/iZBV_nkpJzurSDeZ/1649407821528-cf9e3009-d6eb-4ce2-b69f-8ba0075cecaf-447671.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/iZBV_nkpJzurSDeZ/1649407821538-1e247852-8b31-440f-810a-ba75388e4356-825663.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/iZBV_nkpJzurSDeZ/1649407821551-a5f427a0-359d-4e2f-b46c-760c7381595b-663821.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/iZBV_nkpJzurSDeZ/1649407987293-efb8a2d1-4c81-4ebe-a93f-0d76617a9fab-661461.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/iZBV_nkpJzurSDeZ/1657199404992-3046c58a-0748-49c9-8412-858509d1405a-789496.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/iZBV_nkpJzurSDeZ/1659535257836-e53bce97-8e43-461d-995a-95b5fdf5b7ae-352471.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/iZBV_nkpJzurSDeZ/1659535257852-4735ce88-ae8d-4a07-904c-8629557e3426-315633.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/iZBV_nkpJzurSDeZ/1689242941636-35623457-55b3-4f1f-a778-492e9f129394-708455.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/iZBV_nkpJzurSDeZ/1692588132687-7e3d7036-1531-4d95-8ae9-b3f33b93a6d5-411384.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/iZBV_nkpJzurSDeZ/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-531190.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/j8KDZLCqXjrADsH1/1649079830464-9ba363f5-6bd9-4200-a320-30d3245382bb-437263.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/j8KDZLCqXjrADsH1/1649079830638-60b599df-9e55-455b-8401-0fb589127ac9-290347.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/j8KDZLCqXjrADsH1/1649079830640-67e853df-f600-4c1c-b9af-f795e44614d3-124939.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/j8KDZLCqXjrADsH1/1649079830656-646df87f-d92f-4bb1-a542-5a18f5cdc2e2-687082.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/j8KDZLCqXjrADsH1/1649079830778-69870315-56ba-467e-b435-dbd565a06383-597818.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/j8KDZLCqXjrADsH1/1649079831307-26e66c41-4ca3-4d05-a9b9-dd58d45a4979-809380.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/j8KDZLCqXjrADsH1/1649079831430-c31e006a-8950-4de1-b2e7-fe684ae52fe5-138441.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/j8KDZLCqXjrADsH1/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-429446.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kQRvjrhHxKfupObw/1652367387861-9bbcb7b3-dadc-43ca-aa9e-752f44638f52-537755.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kQRvjrhHxKfupObw/1671690598670-fe7a4567-abf3-4e63-b938-d8aa4d463875-308578.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kQRvjrhHxKfupObw/1671690598684-31380134-d084-4957-a729-9963c394a444-926913.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kQRvjrhHxKfupObw/1671690599117-d9ac364b-b9ff-4b73-947f-a409961eb547-339919.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kQRvjrhHxKfupObw/1721966516412-aa3db6b6-7b7c-471b-998d-69da78949b2c-437287.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kbHvRVo08JiiP0KX/1649404627928-0d7fdf15-bd18-4c45-936a-872c0c01f276-601941.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kbHvRVo08JiiP0KX/1649404639099-b472dc16-a842-455e-97d2-9780916b77da-697878.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kbHvRVo08JiiP0KX/1649404639103-14542858-9279-480f-9cff-1f30314ee5d7-941289.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kbHvRVo08JiiP0KX/1649404682940-cadb2bfe-2a16-47c1-98fd-7787f450c60f-302009.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kbHvRVo08JiiP0KX/1649404703390-2866013c-ecdf-4d0c-ab76-d98eb7b79357-530121.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kbHvRVo08JiiP0KX/1649404758234-375f57f4-6693-4911-ae68-5989ae2d3ce5-883815.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kbHvRVo08JiiP0KX/1649407520651-baa7015e-5b80-4cc6-9776-13840cb8d066-645101.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kbHvRVo08JiiP0KX/1649407535174-69edf65a-620f-4127-88cf-9dd6920c0a80-877084.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kbHvRVo08JiiP0KX/1649407551212-fef6ed2e-c309-472d-9ec3-bcaca93e680e-507547.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kbHvRVo08JiiP0KX/1649407570764-f7b78fd5-18d0-4819-a9f7-2f1f6cc65dcd-237313.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kbHvRVo08JiiP0KX/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-026283.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kjN4dVBZXsw-22tH/1649727244855-1c4c4ed0-7ecb-4c7e-a465-edb2046ea23b-452902.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685402118-ff4a7fec-2ca1-4e53-a90c-ffa368a7b3f6-310757.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685402162-d3951a6b-8fb0-4fbd-a08e-ef99882a9f9c-662022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685402239-f76d6086-daae-4ac3-bba2-c8d6c41be3a9-936126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685402247-073b3641-8125-4ae2-9813-3082dc996c19-669863.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685402397-ce11dbd0-37af-4a20-8ef5-bbcdd808832a-719904.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685402980-27b7d8b1-a080-4b79-ba76-ae1de23ac349-575315.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685403421-930e4fbf-0db2-400e-b45f-4a9114d979f2-475074.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685403533-3adb5b33-c23c-42dd-b407-82b924948ded-806206.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685403683-516ce1ec-a936-40a3-a438-d45dbdfdd549-963742.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685403855-99be6dbb-7be8-4f0c-929f-2882fe6922e2-698103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685405020-e0541639-738a-4040-9a6b-1749f6a9f452-550485.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685405289-5899a046-9307-41bc-9ad5-8c35d00b8d4d-254149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685405556-6f4ccd34-5b70-43f8-953e-ce71bf9c0453-710736.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685405583-4ffb9d27-2b6f-4373-84a7-ee24866f43a4-522609.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685405649-66bb969b-e8a7-4854-be88-d5da90592dfb-279608.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685406013-333fe1d3-13c1-4709-9b31-a93032b96286-095477.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685408745-e9e5a2fd-16a1-42aa-aeb8-2721c9a17baa-931825.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/kwD30-CcFRKBUKrl/1649685409571-4d2c390d-3afe-422d-aefe-f6711163f3c5-535437.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/mIwaj69jdyWM0edA/1671091275689-8292f9d9-6b4e-4203-9bd8-ce1cd4d6fc8c-057762.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/mIwaj69jdyWM0edA/1671091275700-cdb6ceee-eb53-45a5-8771-39a6b314f01b-549203.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/mIwaj69jdyWM0edA/1671091275812-d54d8d33-d11a-473c-880f-60feaad7b86b-861109.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/mIwaj69jdyWM0edA/1671091275833-2b6f4e7a-61df-441a-9f6f-2db058a10863-345631.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/mIwaj69jdyWM0edA/1671091275841-8c889095-c060-4244-9cd1-1b03de1a9995-166412.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/mIwaj69jdyWM0edA/1671091276088-c45cdac5-8010-4f18-9e9a-585722de1305-711611.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/mIwaj69jdyWM0edA/1671091276242-fd330df6-2b53-4879-ab4f-0098cbaedfec-217665.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/mIwaj69jdyWM0edA/1671091276279-a2351ccc-1f26-4667-aa41-3a362a0aaa70-513440.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/mIwaj69jdyWM0edA/1671091276325-c89fbe29-2aa1-4a3f-9800-b4823149f7bd-764102.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/mIwaj69jdyWM0edA/1671091276383-21518cdc-eae7-40ba-a6fd-60d7bc967384-529047.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/mIwaj69jdyWM0edA/1671091276550-4b26a46e-858c-41a5-b423-97da763bdaf9-484182.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/mIwaj69jdyWM0edA/1671091276593-92b3cb86-3497-4e89-bf87-66622c3f2010-953444.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/mIwaj69jdyWM0edA/8d183851-7f59-4bae-8ffc-501e3af8560b-275688.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/s8N3fzO01M6XKosa/1649657270832-e53a9673-fde8-4fcd-96a9-fbbb68d5045c-716330.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/s8N3fzO01M6XKosa/1649657271041-88b1f4c2-e833-4e2c-9e4b-c9ab0b959322-326364.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/s8N3fzO01M6XKosa/1649657271155-0a7c2a1a-d0fa-4a16-9e3b-b416486a5476-146233.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/s8N3fzO01M6XKosa/1649657271302-6c03f51c-e9fc-4921-a3f8-992a2340b94f-915792.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/s8N3fzO01M6XKosa/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-785561.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/s8TH-1yL4Wmm_3i0/1671087661602-f8c774e6-6bee-495c-87ca-fe390d21849b-701852.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/s8TH-1yL4Wmm_3i0/1671088131207-e0a32faf-e9d4-47df-b103-10d69023b13a-858186.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/s8TH-1yL4Wmm_3i0/1671088285543-fbe4035b-0ff9-4496-98fa-563f59761cb6-951719.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/s8TH-1yL4Wmm_3i0/1671088295207-aee4a056-bb0a-4aaf-934e-33b73f07039c-666784.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/s8TH-1yL4Wmm_3i0/1671089351156-0765668e-6216-486e-8a59-d5efd180f0b2-892618.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/s8TH-1yL4Wmm_3i0/1671089678221-0c1b36db-15b9-4844-a8a1-19257c536798-323965.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/uNZHPsWvVHBpiiP_/1721966660561-369f5517-764e-4d5b-8206-cbbc99a26bec-949548.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/uNZHPsWvVHBpiiP_/1721966660696-b319c42c-fc9c-4213-96ef-775d40207e11-908095.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/uNZHPsWvVHBpiiP_/1721966660704-9ae0f305-407f-44fd-8c59-c8fe1d0a30fa-040554.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/uNZHPsWvVHBpiiP_/1721966660726-cfeeb56e-bae0-41da-b2a0-5044f6d68512-965375.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/uNZHPsWvVHBpiiP_/1721966660939-ab364e2b-1049-498d-a193-caab5d32bfd9-542815.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/uNZHPsWvVHBpiiP_/1721966662653-03d1a22c-76ef-447e-acd4-d7d1a1294a4e-263082.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/uNZHPsWvVHBpiiP_/1721966664301-e62dff7d-50d3-4b48-a6c2-b6083502d17b-236319.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/wgbbN4VopAUo_JlT/1680921612845-22ad4614-1f44-4472-bab8-940b01c6b149-609603.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/wgbbN4VopAUo_JlT/1680921612851-26445df6-8c0d-4f17-9405-f07785e1cd9e-865064.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/wgbbN4VopAUo_JlT/1680921612854-5786ec9d-3538-4ffc-8f4d-27a1f6fbb6d1-398409.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/wgbbN4VopAUo_JlT/1680921612878-2aca5d4a-897f-472e-9581-8e95af9c8755-482257.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/wgbbN4VopAUo_JlT/1680921612884-7bc04ed8-fc0f-45ff-95be-6f2a52ff27d4-709329.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/wgbbN4VopAUo_JlT/1680921613245-e0537d98-2471-497f-aec5-af302157c114-540162.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/wgbbN4VopAUo_JlT/1680921613261-42cbeff2-0fde-488d-98cc-85bc9a5871c9-810165.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/wgbbN4VopAUo_JlT/1680921613629-cd634d75-84a8-4dfd-8134-01c2be7fe56e-183319.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/wgbbN4VopAUo_JlT/1680921613676-5e8a5fb6-c9be-44bc-bef3-c49ec735287d-056038.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/wgbbN4VopAUo_JlT/1683254254444-78090e25-d21d-4d3c-9bc6-3ed63628c69c-574318.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/wgbbN4VopAUo_JlT/1683254274923-55cc7c45-ca64-412e-962d-295ff42cf4ce-323634.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/wgbbN4VopAUo_JlT/1683254454015-3ba22cb9-3cea-4483-8718-20f41668a74b-911147.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741869879-3baad5fd-abe7-4792-a797-fa41ca9e1b7b-142213.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741869929-ed6d2652-228f-4dfa-bbd0-90b2a5beeb91-846194.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741869986-60ba621e-004f-4ec9-94d1-34b50224d520-375562.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741870020-8cc67ff9-b070-4773-8e07-f700819bff27-652882.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741871047-7be60dba-8343-4ecb-a4dd-84c8c631cbe9-863969.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741871189-8368636c-5214-475e-a946-bc6ea40f25e7-808300.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741871282-58f340e7-7d9e-4388-a3a8-8354f9961859-361675.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741871621-4f9af016-b99c-43c8-91f9-34325bcbae9d-659822.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741872464-44df5785-0d60-4f2d-86dc-011a1b3ca1ff-206805.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741872763-84c1ec5f-dce3-4349-b8e4-7d29ee20fda1-978606.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741873457-0bbdaba8-0d76-4090-8a9a-7255e43986be-068983.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741873680-1c33918e-fc90-4c93-b4eb-94a8c27e9e12-191782.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741873968-80053e71-d4f5-47f7-8bd5-d5e2765dc959-493281.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741874101-79dc0cea-bf2d-49f4-8344-1183a0baf1ca-550776.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649741914451-de5093fc-3298-4588-bf26-c60f0f5611d7-459310.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649742014986-7e902a6d-6ac7-4e2b-bc24-4b3772220c69-205364.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649742222628-0ad9d337-f148-4454-a79e-6c5c195ccb36-428730.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/xXAWmmqCZefZxmiC/1649742239157-627681d6-8c03-4477-b61d-1d08d28d348c-509140.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/zdSaNcXXZoCqLWsU/1649727346925-163c0600-1fcf-4128-8e97-41de1328e125-939714.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/zdSaNcXXZoCqLWsU/1649727346956-6c0978d6-d524-4c4e-960b-0cf71e4644a6-952380.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/zdSaNcXXZoCqLWsU/1649727347023-bde8e4f3-ed46-42b1-b916-863b152483e5-364109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/zdSaNcXXZoCqLWsU/1649727348753-e66e3fca-9d31-40cb-82f9-080757ad88d9-907622.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/zdSaNcXXZoCqLWsU/1649727348980-03d12489-1846-4eeb-90d0-0bdfc1460a6d-053629.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/zdSaNcXXZoCqLWsU/1649727348986-00eba8ef-d729-40e4-9c47-a71c413f4c98-313072.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/zdSaNcXXZoCqLWsU/1649727857868-b949d1ac-708e-450e-8c6f-42b9d9b789d9-339692.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/zlQOUsCk4aY2h7Kg/1690964029600-f2b133cf-3410-40eb-8d7b-4b05fbcfbe30-502378.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/zlQOUsCk4aY2h7Kg/1690964097795-54c7e951-618f-43a7-a37b-748b846b6611-236349.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/三、Austin详细文档/img/zlQOUsCk4aY2h7Kg/1715182390798-8898196c-c9e7-4e80-ab68-9f7df75762fe-178598.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/2.1使用现搭好的服务（VIP专属）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/2.2如何在本地启动项目？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/2.3万事开头难？接收一条消息！.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/2.4把灵魂的消息队列用起来！.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/2.5使用圈选人群的方式发送消息.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/2.6继续探索！前进！.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/2.7各个渠道接入的姿势.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/2.9技术团队接入消息推送平台文档.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/-eKdQ5CuSik2Roim/1684462642435-38a3b51c-c321-4ebc-b453-676c0a399ec8-779018.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/-eKdQ5CuSik2Roim/1684462657092-63960466-e34b-41bb-8bb7-b81d92f23ef8-929183.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/-eKdQ5CuSik2Roim/1684462668178-6a30815b-7ea6-43d2-8688-f412863a392f-120852.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/-eKdQ5CuSik2Roim/1684462709404-178ef0ab-6ba5-4014-a4be-6a07f053ef82-321719.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/-eKdQ5CuSik2Roim/1684462741669-9cc5696f-dc44-4777-a42f-a19260950233-635807.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/-eKdQ5CuSik2Roim/1684462753238-ea719ecd-81e0-4972-a5ff-788cb6a6bdf9-364546.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/2ZAiI0boWXmaaS_O/1705376454777-2514afa3-18f2-4c4e-886f-4b832577e2a8-247588.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/9P8cyvLSAf9seQhn/1657199404992-3046c58a-0748-49c9-8412-858509d1405a-135559.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/9P8cyvLSAf9seQhn/1657199441335-72020bf6-9b53-4cb1-90e3-ec3cbab6603d-030422.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/9P8cyvLSAf9seQhn/1659796596237-e50542f1-9300-4f3c-aafa-d2ee2e624d0a-265842.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/9P8cyvLSAf9seQhn/1687249799849-a1e56288-5ce6-4f20-8ca5-69c7a91eb2d8-891875.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/RdVMEsNB4FLSBUh9/1649248546903-31378a6b-0384-4396-a7b9-49ef0ff6a436-642276.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/RdVMEsNB4FLSBUh9/1649249205372-f310d79e-4c8f-408e-97d5-60cb2402ad29-179311.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/RdVMEsNB4FLSBUh9/1649249493978-c59ba3d4-8010-4031-9df9-a77a356d85ab-607295.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/RdVMEsNB4FLSBUh9/1652451141156-35534121-bc3e-45ca-8b13-14ba93868abe-942295.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/RdVMEsNB4FLSBUh9/1659839502419-8847b26e-0328-47a9-9897-e11398a65953-644016.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/RdVMEsNB4FLSBUh9/1659839528647-24bc6238-519f-4445-b791-49c530b530c7-615070.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/RdVMEsNB4FLSBUh9/1678711813060-5b665df8-8db8-405d-bce5-d842154707f7-105745.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/RdVMEsNB4FLSBUh9/1678711898916-6b1fac32-c6e1-4eab-ad13-875242ff27d3-995302.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/cbDdsh9iE46UgRWT/1689240180413-2d07b8c4-68ec-4b5c-a793-e170496cc648-950210.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/pB1zS904n6BfjZD2/1649224974495-6904d832-6b45-46a9-831c-f09ade11c1f9-685632.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/pB1zS904n6BfjZD2/1679629149882-456adcc6-36d7-43fe-a0ec-bc00c30e5246-203653.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/pB1zS904n6BfjZD2/1680833808457-9d2fc029-5ee0-4e5e-b0cd-1a5619dc3b76-118490.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/pB1zS904n6BfjZD2/1680833830291-6dd9d7fc-7bda-450e-8b01-7d950d9117e8-619160.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/pB1zS904n6BfjZD2/1681111458409-58edf73d-bd83-4d08-9901-ea40904a4fdf-509330.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/pB1zS904n6BfjZD2/1693898349467-2ccbd242-92b8-40ab-909d-7230a32686fc-117855.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/w2Hxq_rYzLhdoyVv/1649743855392-b60586ec-e64d-461e-a8f7-6407cb7de896-778432.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/w2Hxq_rYzLhdoyVv/1669638269323-7eef73ea-c8d3-44d3-81a7-d02e87be8298-703203.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/w2Hxq_rYzLhdoyVv/1669638369114-d6b5143c-134c-4a5a-aec6-81119e26f187-703115.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/w2Hxq_rYzLhdoyVv/1669638418178-8d0caf34-f652-40ec-b9d5-c77d89d762d8-796768.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/w2Hxq_rYzLhdoyVv/1673526977591-56e21ea9-9cd8-4b64-a143-1a805d782d2b-284777.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/w2Hxq_rYzLhdoyVv/1683882948640-365dd5b6-2221-486e-b919-242f50b5f33c-867530.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/w2Hxq_rYzLhdoyVv/1692587119911-ca0b8fe4-a101-4898-96e2-116c8a50305c-597865.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1649083251826-a7570188-6693-4491-a2f1-a77f9cfc475f-237213.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1649083393158-8f145f5e-bbab-4120-bb31-1c12b45696c7-000727.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1649743855392-b60586ec-e64d-461e-a8f7-6407cb7de896-776843.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1649756080636-9fa181ac-d41b-4a35-a1fe-51c81298f875-218649.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1650379802533-182e7d96-9fd3-4afe-ac8e-c2b17eebab74-044826.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1652321089650-4531457d-4e52-414c-b025-84267173f53a-173154.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1652321089687-97343191-5b3d-4f68-8487-cbcb83da9721-294310.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1652321089687-eb91d133-2a9d-49db-bb60-37b435b9e4ed-392346.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1652321090033-28e7dcce-3e80-4d50-accd-7fd29b98c19f-895915.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1661258086711-95fc5ea7-c60a-48a6-bf43-ea8b74de3bdd-259031.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1671087117435-d742da03-3787-4070-8535-a09e0a1b1bda-796494.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1671087293888-0d4ff130-8b0c-4fe7-98ee-428c30081169-131740.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1671087432453-92532ef2-36e1-4847-9365-7163f94306fe-461027.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1671087661602-f8c774e6-6bee-495c-87ca-fe390d21849b-086281.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1671088131207-e0a32faf-e9d4-47df-b103-10d69023b13a-165248.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1671088285543-fbe4035b-0ff9-4496-98fa-563f59761cb6-026305.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1671088295207-aee4a056-bb0a-4aaf-934e-33b73f07039c-143712.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1671089351156-0765668e-6216-486e-8a59-d5efd180f0b2-934246.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1671089678221-0c1b36db-15b9-4844-a8a1-19257c536798-367413.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1671691883306-66c82fbd-11ae-49bb-8bd3-19750197cbce-429184.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1672039455996-bd1db26a-1cce-47d3-9172-faa6140e2d96-156532.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/img/zG2E7vhDAk0owg5J/1672039490541-a589b5e9-1306-445d-93d8-f01afc0d4621-855077.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/二、如何从零玩转Austin/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/五、austin通用代码专项/5.1web端代码统一处理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/五、austin通用代码专项/5.2Spring注入集合.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/五、austin通用代码专项/5.3Map.computeIfAbsent使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/五、austin通用代码专项/img/55ttk3zWUchTjaeh/1683882377580-d7aa3aa0-2837-4b13-b65b-5c9ef0e21f29-164317.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/五、austin通用代码专项/img/xco06CJyYFXiOTVI/1683882166866-5c648c18-bfc9-4ea7-a0ed-0559a0e3a66a-455402.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/八微服务Austin/8.1什么是微服务.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/八微服务Austin/8.2austin-cloud改造思路.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/八微服务Austin/8.3系统拆分&amp;注册发现服务.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/八微服务Austin/img/XKdSEwHUuwxbr5xl/1678800243848-5e90910a-7c19-4715-8945-8573b019fef0-134279.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/八微服务Austin/img/XKdSEwHUuwxbr5xl/1719908536305-b26d29d7-0160-455d-a814-9c22c37f87b2-269774.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/八微服务Austin/img/XKdSEwHUuwxbr5xl/1719908536353-25ffdef5-dafd-4922-8a62-965971204991-050181.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/八微服务Austin/img/qVRQrbcvhehGdoGH/1719913253122-e5747170-195d-4337-827e-a00a99394a79-042413.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/八微服务Austin/img/qVRQrbcvhehGdoGH/1719977961866-025e9b9a-9e3e-4896-9056-a02a48620c01-927171.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/八微服务Austin/img/qVRQrbcvhehGdoGH/1719977961914-365ea187-a2cb-4c7b-8930-5d40a85ec491-381247.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/八微服务Austin/img/qVRQrbcvhehGdoGH/1719977961934-d8ac10e1-e85d-4606-b467-d53108a08b2d-433136.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/八微服务Austin/img/qVRQrbcvhehGdoGH/1719978215067-61bfd3ec-7361-44b6-ab01-48590af1f659-294086.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/八微服务Austin/img/qd9tyCyFBPBoMvvg/1719903672111-4ceb0b05-5aca-4baa-8677-82f50dcb847e-665929.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/八微服务Austin/img/qd9tyCyFBPBoMvvg/1719904261199-1567833b-f124-4830-89d1-9e651c14647e-152134.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/6.1学Austin需要什么基础？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/6.2学Austin要花多长时间？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/6.3学会austin有什么好处？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/6.4应该怎么学习Austin代码？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/6.5是否要从零实现austin？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/6.6为什么austin是消息推送平台.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/6.7Austin是分布式的吗？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/6.8有什么好用的画图工具？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/img/8gwQ0WIi-9jgDHpR/1676814520417-9a80b65d-70ae-48bc-8f24-ec9aac5f0307-408068.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/img/PZEy99d5eEje3b6Y/1722402452216-35b57360-72a7-4fa3-b474-a76df0d63862-095265.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/img/RYZ38UEMD5UJNpzG/1652232520147-15ab7a9d-ad12-4842-aa19-a6ec56c7427f-682795.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/img/RYZ38UEMD5UJNpzG/1652232555362-3b6d13b8-5f15-4085-9390-717ab6b5b2d9-369589.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/img/Zb_W_y2iy5xQFa0A/1649081230472-3e97aa33-3c86-438c-9d45-da43cf81ff2e-382429.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/img/Zb_W_y2iy5xQFa0A/1649081230475-ed667f4e-afc9-4eb4-9560-4cbc102b7cdb-738327.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/img/Zb_W_y2iy5xQFa0A/1649081230570-bc48f56a-afc6-4458-acb6-bcd30a4e8685-021668.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/img/Zb_W_y2iy5xQFa0A/1649081230580-3f8451dd-780a-44de-8d13-1a8ede245b73-850839.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/img/Zb_W_y2iy5xQFa0A/1649081230581-0c372c20-7e96-4d6f-b062-3a0f421ebedb-054309.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/img/Zb_W_y2iy5xQFa0A/1649081231379-527a81fa-505a-4f1c-9470-6390a35b9659-405005.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/img/Zb_W_y2iy5xQFa0A/1649081231774-ee30cf03-4727-4b7f-8a14-151cd6904e19-299141.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/img/vhoPfYpzvhRdmUHR/1681108296913-ef17b0ff-3303-4e12-a6fe-5248bf0a71c1-373281.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/img/vhoPfYpzvhRdmUHR/1694413688688-823ea197-6e82-4d9e-931c-d79fd04b4574-191753.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/六、常见Q&amp;A/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.10理想二面.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.11阿里一面&amp;二面.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.12消费数据能保证不丢失吗？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.13用户没收到短信的话有哪些情况.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.14外包项目问题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.15xx科技项目.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.16项目瓶颈在哪？解决方案是什么.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.17austin线上指标问题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.18xx公司问题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.1简历如何描述Austin项目.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.2项目用了什么设计模式？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.3你的接口性能怎么样？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.4xx科技一面.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.5xx科技二面.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.6微众银行一面.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.7字节二面.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.8快手一面.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/4.9理想一面.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/-Z9Vn_-1yJ2kFoTy/1650379791981-9fbe7ead-b63f-4206-a0b7-75330d91634f-260620.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/-Z9Vn_-1yJ2kFoTy/1650379792017-aa4f071b-aa1f-4b84-ba4f-168bbeb26111-893551.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/-Z9Vn_-1yJ2kFoTy/1650379792083-1858343a-ae36-4494-95f0-198a803fbb6f-426352.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/-Z9Vn_-1yJ2kFoTy/1650379792145-4fec7174-674d-4030-af0a-87977c76eaf0-345055.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/-Z9Vn_-1yJ2kFoTy/1650379792227-805e37dc-96e1-4477-a51a-4f2023794679-884505.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/-Z9Vn_-1yJ2kFoTy/1650379792265-17fccf2a-6a28-4bdc-bd8c-dbea2be3c502-658627.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/-Z9Vn_-1yJ2kFoTy/1650379792804-4754cae1-529e-4a9c-93f0-d9b3033e1e9c-905835.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/-Z9Vn_-1yJ2kFoTy/1650379792819-9c282ae3-92a3-4fde-a2bd-9c002227923a-064815.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/-Z9Vn_-1yJ2kFoTy/1650379792907-5b5cd3ca-3611-478a-a1f7-70423d8bee02-358398.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/-Z9Vn_-1yJ2kFoTy/1650379792952-046a4691-df97-400a-8620-296750ab4bd0-285500.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/-Z9Vn_-1yJ2kFoTy/1650379792967-2806c1d7-5ed9-425b-affd-26ad0979c810-476295.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/3DeMqCfhaQWDksFF/1678802309296-9dcf6fb9-f2a2-457d-b34e-eeabb2fe21e1-241095.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/3DeMqCfhaQWDksFF/1678802312190-f37fbcaf-73ce-4f66-a651-228a18368254-496256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/3DeMqCfhaQWDksFF/1678802317723-9b0395c4-6fda-4766-a940-434e4a845718-613326.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/3DeMqCfhaQWDksFF/1678802319533-5b35c673-cb23-4dbc-83db-d0507e9a754d-150465.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/3DeMqCfhaQWDksFF/1678802321462-92424789-f7c3-49ea-85c2-7cbd6a0e99ad-275308.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/3DeMqCfhaQWDksFF/1678802330536-5bc0b6e5-633d-4b95-94f1-ca1df8404951-855234.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/3DeMqCfhaQWDksFF/1711014885281-cfcff278-2dfc-4b36-b22f-3e7dbf40c298-973083.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/5OGCobU3d1LSEFWu/1649816171578-f4f67ad0-4c4c-4861-88c4-e9ac5117ab94-254029.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/Bu3eRsce4uRaEuad/1657619753992-b92bfa7b-84eb-406d-9650-63473cba0d54-149503.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/Bu3eRsce4uRaEuad/1657619753998-839a24da-c8cc-4776-b7e9-b5dd4b83f255-206365.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/Bu3eRsce4uRaEuad/1657619754006-598849d2-5672-405d-812a-ef66bce35dc5-962651.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/CDgAt8xPvi68Kn_0/1649401615540-4cfc271e-d636-4555-9130-4d3d95a8730f-454538.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/CDgAt8xPvi68Kn_0/1649401615542-03d92da3-e223-44af-92e4-dd4439706663-395158.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/G26ig9tVXUnNafBo/1649816171578-f4f67ad0-4c4c-4861-88c4-e9ac5117ab94-967962.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/HQJzJ6dYeUcbxSsJ/1649816171494-1f9b7e6a-7c7a-4fec-851c-c7d94bdeb4bc-568245.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/HQJzJ6dYeUcbxSsJ/1649816171531-761b1caf-852f-4874-9762-50f744ffe954-133901.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/HQJzJ6dYeUcbxSsJ/1649816171578-f4f67ad0-4c4c-4861-88c4-e9ac5117ab94-462224.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/ff58eGAzwCTeHwnc/1688196727162-0a8b89fb-5255-42ee-b67f-59be5dbf31fb-687769.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/ff58eGAzwCTeHwnc/1688196727289-63586182-0b94-4658-be3e-5519661ebd64-676945.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/ff58eGAzwCTeHwnc/1688196729398-18af3f66-2d1e-4ca1-96bf-8ca03bc13b98-196995.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/ff58eGAzwCTeHwnc/1688196729604-d31012ef-5721-4d24-9a30-5f6dcbc3805b-228184.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/ff58eGAzwCTeHwnc/1689212113048-4c15085b-df0c-4a62-9119-4d14e7c5454d-650114.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/ff58eGAzwCTeHwnc/1689212553745-baa43629-5b30-4def-94fd-713337bfa5b4-244340.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/rKUJlc7w7i-Z-g4J/1695216126850-d646d1dc-d9de-4956-812c-48234556041f-914682.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/vVSQTbgtZfrk18rd/1690858377897-4e32e665-6e0b-423f-ab27-40fab980dd13-701717.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/w6cbcm6QuvVXE04T/1684217422837-ebc6e4f4-6d7a-4a46-b8e7-aee4fa116698-702988.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/w6cbcm6QuvVXE04T/1684217942922-25d99b70-d521-4af3-9f92-502a15bc72c8-977726.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/w6cbcm6QuvVXE04T/1684218264617-03152e06-98a2-4c65-9478-f52d847f0b95-033520.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/w6cbcm6QuvVXE04T/1684218425075-27fd639d-9e57-4bb2-b343-86dd521567a7-770238.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/w6cbcm6QuvVXE04T/1684218921033-08efa3bc-5f6d-4a2d-ba8a-aa8437253c0c-797983.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java项目-Austin消息推送平台-md文档/java项目-Austin消息推送平台-md文档/四、Austin面试剖析/img/w6cbcm6QuvVXE04T/1684219092426-f26f033e-0a48-47dc-919f-fb5e07260daa-165851.webp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,26 +680,27 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;aspect.path.notification.shown&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/source/jieke-base&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.log&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "aspect.path.notification.shown": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/source/jieke-base/java项目-Austin消息推送平台-md文档",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.log",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\source\jieke-base\java项目-Austin消息推送平台-md文档" />
       <recent name="E:\source\jieke-base" />
       <recent name="E:\source\jieke-base\119-100047701-专栏课-朱晔-Java 业务开发常见错误 100 例（完结）" />
     </key>
@@ -114,7 +736,7 @@
       <workItem from="1731124609737" duration="5187000" />
       <workItem from="1731242787976" duration="453000" />
       <workItem from="1732290051101" duration="555000" />
-      <workItem from="1732323874615" duration="3543000" />
+      <workItem from="1732323874615" duration="3867000" />
     </task>
     <task id="LOCAL-00001" summary="spring50讲">
       <created>1730043829902</created>
@@ -431,14 +1053,6 @@
       <option name="project" value="LOCAL" />
       <updated>1730126313936</updated>
     </task>
-    <task id="LOCAL-00077" summary="掘金VUE">
-      <option name="closed" value="true" />
-      <created>1732326914829</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1732326914829</updated>
-    </task>
     <task id="LOCAL-00078" summary="掘金redis">
       <option name="closed" value="true" />
       <created>1732327047659</created>
@@ -463,7 +1077,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732327573012</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="掘金 nest">
+      <option name="closed" value="true" />
+      <created>1732328255742</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1732328255742</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -531,12 +1153,12 @@
     <MESSAGE value="js  and go" />
     <MESSAGE value="掘金 文本 布局" />
     <MESSAGE value="掘金 前端工程化" />
-    <MESSAGE value="掘金 nest" />
     <MESSAGE value="掘金 TS" />
     <MESSAGE value="掘金VUE" />
     <MESSAGE value="掘金redis" />
     <MESSAGE value="掘金git" />
-    <option name="LAST_COMMIT_MESSAGE" value="掘金git" />
+    <MESSAGE value="掘金 nest" />
+    <option name="LAST_COMMIT_MESSAGE" value="掘金 nest" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
