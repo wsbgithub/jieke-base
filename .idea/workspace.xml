@@ -4,97 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="掘金 前端工程化">
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/1 开篇：落地前端工程化，告别纸上谈兵！.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/10 环境管理：不同项目使用不同Node版本，如何优雅切换？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/11 镜像管理：依赖安装老出问题，聊聊Npm镜像那些险象环生的坑！.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/12 数据管理：前端也能愉快地操作数据库，MongoDB安排上！.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/13 进程管理：Node服务运行起来无缘无故中断，如何常驻后台？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/14 应用打包：应用打包体积过大，聊聊Webpack那些构建策略！.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/15 类库打包：使用Webpack打包的类库模块不纯，有发现吗？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/16 单元测试：类库模块编码完毕，如何保障运行质量？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/17 范围模块：包名在发布时被占用，有更好方式解决吗？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/18 多包仓库：多个仓库管理相同业务代码，真让人头大啊！.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/19 开源输出： 一份优秀的自述文档，需加点什么料？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/2 模块规范：在Node环境中运行ESM，可行吗？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/20 私有仓库：不想将模块发布到公有仓库，有私有仓库托管吗？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/21 文档站点：一个优秀的开源项目，肯定要有美观的文档点缀！.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/22 持续集成：是时候将工作流程的手动操作改为自动操作了！.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/23 结篇：打开前端到全栈的世界大门！.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/3 代码规范：为了校验代码，有必要为每个项目部署Lint吗？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/4 提交规范：团队成员提交代码不规范，如何统一习惯？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/5 云服务器：如何选购一个适合自己的服务器？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/6 域名系统：如何选购一个属于自己的域名？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/7 站服务器：服务器中运行的应用或服务，如何通过URL访问？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/8 访问加密：还用HTTP访问URL，不怕被劫持吗？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从 0 到 1 落地前端工程化/pdf/9 资源加速：静态资源加载过慢，如何走线路优化？.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/1.前言：可视化搭建诞生背景.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/10.稳定性-组件更新策略.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/11.设计实现 CLI 为开发助力.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/12.可视化编辑区实现.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/13.可视化编辑区mock&amp;预览.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/14.vue3 Form render 实现.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/15.Server 端编译实现.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/16.发布流程设计.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/17.写在最后.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/18.加餐：当前可视化搭建未解决的问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/19.加餐：H5 可视化搭建项目如何在本地跑起来.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/2.架构设计.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/3.前置基础知识准备.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/4.模板设计.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/5.模板通信设计.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/6.模板动态化交互.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/7.稳定性-模板更新策略.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/8.全局组件设计.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/从零开发H5可视化搭建项目/9.全局组件注册.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/01.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/02.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/03.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/04.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/05.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/06.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/07.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/08.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/09.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/11.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/12.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/13.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/14.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/15.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/16.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/17.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/18.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/19.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/20.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/21.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/22.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/23.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/24.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/25.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/26.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/27.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/28.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/29.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/30.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/31.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/32.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/33.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/34.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/35.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/36.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/37.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/38.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/39.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/40.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/41.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/42.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/43.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/44.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/45.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/46.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/47.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/前端调试通关秘籍/目录.txt" afterDir="false" />
+    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="掘金 nest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -204,7 +114,7 @@
       <workItem from="1731124609737" duration="5187000" />
       <workItem from="1731242787976" duration="453000" />
       <workItem from="1732290051101" duration="555000" />
-      <workItem from="1732323874615" duration="1071000" />
+      <workItem from="1732323874615" duration="2097000" />
     </task>
     <task id="LOCAL-00001" summary="spring50讲">
       <created>1730043829902</created>
@@ -521,14 +431,6 @@
       <option name="project" value="LOCAL" />
       <updated>1730126313936</updated>
     </task>
-    <task id="LOCAL-00071" summary="js  and go">
-      <option name="closed" value="true" />
-      <created>1732155102951</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1732155102951</updated>
-    </task>
     <task id="LOCAL-00072" summary="js  and go">
       <option name="closed" value="true" />
       <created>1732155323626</created>
@@ -553,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732324904115</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="掘金 nest">
+      <option name="closed" value="true" />
+      <created>1732325170133</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1732325170133</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +533,8 @@
     <MESSAGE value="js  and go" />
     <MESSAGE value="掘金 文本 布局" />
     <MESSAGE value="掘金 前端工程化" />
-    <option name="LAST_COMMIT_MESSAGE" value="掘金 前端工程化" />
+    <MESSAGE value="掘金 nest" />
+    <option name="LAST_COMMIT_MESSAGE" value="掘金 nest" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
