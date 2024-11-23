@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="js  and go">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="掘金 文本 布局" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +112,7 @@
       <workItem from="1731124609737" duration="5187000" />
       <workItem from="1731242787976" duration="453000" />
       <workItem from="1732290051101" duration="555000" />
-      <workItem from="1732323874615" duration="409000" />
+      <workItem from="1732323874615" duration="758000" />
     </task>
     <task id="LOCAL-00001" summary="spring50讲">
       <created>1730043829902</created>
@@ -433,14 +429,6 @@
       <option name="project" value="LOCAL" />
       <updated>1730126313936</updated>
     </task>
-    <task id="LOCAL-00069" summary="掘金">
-      <option name="closed" value="true" />
-      <created>1731127636745</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1731127636745</updated>
-    </task>
     <task id="LOCAL-00070" summary="掘金">
       <option name="closed" value="true" />
       <created>1731128208476</created>
@@ -465,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732155323626</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="掘金 文本 布局">
+      <option name="closed" value="true" />
+      <created>1732324469969</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1732324469969</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -533,7 +529,8 @@
     <MESSAGE value="serach" />
     <MESSAGE value="掘金" />
     <MESSAGE value="js  and go" />
-    <option name="LAST_COMMIT_MESSAGE" value="js  and go" />
+    <MESSAGE value="掘金 文本 布局" />
+    <option name="LAST_COMMIT_MESSAGE" value="掘金 文本 布局" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
