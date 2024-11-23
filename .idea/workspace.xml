@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="掘金VUE" />
+    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="掘金redis" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +112,7 @@
       <workItem from="1731124609737" duration="5187000" />
       <workItem from="1731242787976" duration="453000" />
       <workItem from="1732290051101" duration="555000" />
-      <workItem from="1732323874615" duration="2416000" />
+      <workItem from="1732323874615" duration="2746000" />
     </task>
     <task id="LOCAL-00001" summary="spring50讲">
       <created>1730043829902</created>
@@ -429,14 +429,6 @@
       <option name="project" value="LOCAL" />
       <updated>1730126313936</updated>
     </task>
-    <task id="LOCAL-00074" summary="掘金 前端工程化">
-      <option name="closed" value="true" />
-      <created>1732324904115</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1732324904115</updated>
-    </task>
     <task id="LOCAL-00075" summary="掘金 nest">
       <option name="closed" value="true" />
       <created>1732325170133</created>
@@ -461,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732326914829</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="掘金redis">
+      <option name="closed" value="true" />
+      <created>1732327047659</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1732327047660</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,7 +509,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="spring50讲" />
     <MESSAGE value="jvm高手" />
     <MESSAGE value="mysql高手" />
     <MESSAGE value="rocketmq高手" />
@@ -534,7 +533,8 @@
     <MESSAGE value="掘金 nest" />
     <MESSAGE value="掘金 TS" />
     <MESSAGE value="掘金VUE" />
-    <option name="LAST_COMMIT_MESSAGE" value="掘金VUE" />
+    <MESSAGE value="掘金redis" />
+    <option name="LAST_COMMIT_MESSAGE" value="掘金redis" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
