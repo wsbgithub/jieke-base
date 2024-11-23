@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="掘金" />
+    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="js  and go">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,6 +115,8 @@
       <workItem from="1731080195991" duration="1488000" />
       <workItem from="1731124609737" duration="5187000" />
       <workItem from="1731242787976" duration="453000" />
+      <workItem from="1732290051101" duration="555000" />
+      <workItem from="1732323874615" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="spring50讲">
       <created>1730043829902</created>
@@ -427,22 +433,6 @@
       <option name="project" value="LOCAL" />
       <updated>1730126313936</updated>
     </task>
-    <task id="LOCAL-00067" summary="serach">
-      <option name="closed" value="true" />
-      <created>1730247916984</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1730247916984</updated>
-    </task>
-    <task id="LOCAL-00068" summary="掘金">
-      <option name="closed" value="true" />
-      <created>1731125997799</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1731125997799</updated>
-    </task>
     <task id="LOCAL-00069" summary="掘金">
       <option name="closed" value="true" />
       <created>1731127636745</created>
@@ -459,7 +449,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731128208476</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="js  and go">
+      <option name="closed" value="true" />
+      <created>1732155102951</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1732155102951</updated>
+    </task>
+    <task id="LOCAL-00072" summary="js  and go">
+      <option name="closed" value="true" />
+      <created>1732155323626</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1732155323626</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +532,8 @@
     <MESSAGE value="&#10;mysql" />
     <MESSAGE value="serach" />
     <MESSAGE value="掘金" />
-    <option name="LAST_COMMIT_MESSAGE" value="掘金" />
+    <MESSAGE value="js  and go" />
+    <option name="LAST_COMMIT_MESSAGE" value="js  and go" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
