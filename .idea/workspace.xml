@@ -4,36 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="austin">
+    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="密码学">
+      <change beforePath="$PROJECT_DIR$/.idea/setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/setting.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/0开篇介绍：Node 10 年大跃进与当下在互联网研发中的地位.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/0开篇介绍：Node 10 年大跃进与当下在互联网研发中的地位.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/10案例九： [实现 N 个 API[网页爬虫] Node 的 HTTP 处理 - 请求与响应.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/10案例九： [实现 N 个 API[网页爬虫] Node 的 HTTP 处理 - 请求与响应.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/11案例十： [压测 Cluster 的并发负载] Node 的集群 - cluster.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/11案例十： [压测 Cluster 的并发负载] Node 的集群 - cluster.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/12案例十一：[埋点搜集服务器] - 总结： Koa 服务端框架用到了哪些能力.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/12案例十一：[埋点搜集服务器] - 总结： Koa 服务端框架用到了哪些能力.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/13源码解读：Node 的程序架构及启动流程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/13源码解读：Node 的程序架构及启动流程.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/1源码挖掘： Webpack 中用到 Node 的 10 个核心基础能力.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/1源码挖掘： Webpack 中用到 Node 的 10 个核心基础能力.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/2案例一： [龟兔赛跑] Node 的语言基础 - JS（ES5[6[7[8）.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/2案例一： [龟兔赛跑] Node 的语言基础 - JS（ES5[6[7[8）.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/3案例二： [视频时长统计] Node 的模块机制（CommonJS）与包管理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/3案例二： [视频时长统计] Node 的模块机制（CommonJS）与包管理.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/4案例三：[发布 LTS 查看工具] Node 的生态利器 - NPM.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/4案例三：[发布 LTS 查看工具] Node 的生态利器 - NPM.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/5案例四：[中英文 JSON 合并工具] Node 的文件操作能力 - fs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/5案例四：[中英文 JSON 合并工具] Node 的文件操作能力 - fs.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/6案例五： [实现一个音乐播放器] Node 的事件机制 - EventEmitter.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/6案例五： [实现一个音乐播放器] Node 的事件机制 - EventEmitter.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/7案例六：[图片拷贝小工具] - Node 的编码与缓冲 - Buffer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/7案例六：[图片拷贝小工具] - Node 的编码与缓冲 - Buffer.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/8案例七：[视频流转 MP3 工具] - Node 数据流和管道 - Stream[pipe.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/8案例七：[视频流转 MP3 工具] - Node 数据流和管道 - Stream[pipe.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/9案例八：[静态资源服务器] - Node 工具集 - path[util[zlib 等.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10+ 代码案例掌握 NodeJS 核心基础知识(1)/9案例八：[静态资源服务器] - Node 工具集 - path[util[zlib 等.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/01-开篇词 (1讲)/开篇词 _ 人人都要会点密码学.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/02-课前必读 (1讲)/01 _ 学习密码学有什么用？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/03-学会使用哈希函数 (4讲)/02｜单向散列函数：如何保证信息完整性？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/03-学会使用哈希函数 (4讲)/03｜如何设置合适的安全强度？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/03-学会使用哈希函数 (4讲)/04｜选择哈希算法应该考虑哪些因素？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/03-学会使用哈希函数 (4讲)/05｜如何有效避免长度延展攻击？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/06｜对称密钥：如何保护私密数据？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/07丨怎么选择对称密钥算法？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/08丨该怎么选择初始化向量？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/09丨为什么ECB模式不安全？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/10丨怎么防止数据重放攻击？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/11丨怎么利用解密端攻击？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/12丨怎么利用加密端攻击？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/13丨如何防止数据被调包？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/14丨加密数据能够自我验证吗？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/15丨AEAD有哪些安全陷阱？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/16丨为什么说随机数都是骗人的？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/17丨加密密钥是怎么来的？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/18丨如何管理对称密钥？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/19丨量子时代，你准备好了吗？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/04-学会使用加密算法 (15讲)/加餐丨密码学，心底的冷暖.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/05-案例分析 (1讲)/20丨综合案例：如何解决约会难题？.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/06-结束语 (2讲)/21丨结束语丨深挖坑，广积粮.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/167-实用密码学/06-结束语 (2讲)/22丨结课测试丨这些密码学的知识，你都掌握了吗？.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +98,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.log&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -145,7 +142,9 @@
       <workItem from="1732290051101" duration="555000" />
       <workItem from="1732323874615" duration="6998000" />
       <workItem from="1732465047211" duration="209000" />
-      <workItem from="1732549262058" duration="315000" />
+      <workItem from="1732549262058" duration="1939000" />
+      <workItem from="1732625315684" duration="1730000" />
+      <workItem from="1732627135980" duration="367000" />
     </task>
     <task id="LOCAL-00001" summary="spring50讲">
       <created>1730043829902</created>
@@ -462,14 +461,6 @@
       <option name="project" value="LOCAL" />
       <updated>1730126313936</updated>
     </task>
-    <task id="LOCAL-00079" summary="掘金git">
-      <option name="closed" value="true" />
-      <created>1732327439499</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1732327439499</updated>
-    </task>
     <task id="LOCAL-00080" summary="掘金git">
       <option name="closed" value="true" />
       <created>1732327573012</created>
@@ -494,7 +485,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732328512941</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="密码学">
+      <option name="closed" value="true" />
+      <created>1732549602454</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1732549602455</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,7 +523,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="rocketmq高手" />
     <MESSAGE value="java新特性" />
     <MESSAGE value="数据结构与算法" />
     <MESSAGE value="java核心面试" />
@@ -549,7 +547,8 @@
     <MESSAGE value="掘金git" />
     <MESSAGE value="掘金 nest" />
     <MESSAGE value="austin" />
-    <option name="LAST_COMMIT_MESSAGE" value="austin" />
+    <MESSAGE value="密码学" />
+    <option name="LAST_COMMIT_MESSAGE" value="密码学" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
