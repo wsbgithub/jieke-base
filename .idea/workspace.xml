@@ -4,101 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="密码学">
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-10.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-11.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-12.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-13.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-14.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-15.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-16.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-17.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-18.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-19.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-20.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-21.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-22.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-23.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-24.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-25.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-26.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-27.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-28.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-29.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-30.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-31.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-32.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-33.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-34.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-35.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-36.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-37.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-38.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-39.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-40.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-41.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-42.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-43.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-44.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-45.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-46.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-47.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-48.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-49.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-5.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-50.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-51.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-52.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-53.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-54.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-55.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-56.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-57.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-58.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-59.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-6.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-60.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-61.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-62.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-63.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-64.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-65.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-66.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-67.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-68.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-69.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-7.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-70.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-71.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-72.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-73.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-74.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-75.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-76.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-77.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-78.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-79.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-8.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-80.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-81.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-82.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-83.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-84.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-85.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-86.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-87.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-88.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-89.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-9.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-90.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-91.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-92.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-93.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/JavaScript高级程序设计（第4版）-94.pdf" afterDir="false" />
+    <list default="true" id="0a3c316f-3d54-44cc-bab0-d1b34899ef65" name="Changes" comment="你不知道的javascript">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +67,7 @@
     "aspect.path.notification.shown": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/source/jieke-base",
+    "last_opened_file_path": "E:/source/jieke-base/你不知道的JAVASCRIPT/上卷",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -172,6 +79,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\source\jieke-base\你不知道的JAVASCRIPT\上卷" />
+      <recent name="E:\source\jieke-base\你不知道的JAVASCRIPT\下卷" />
       <recent name="E:\source\jieke-base\java项目-Austin消息推送平台-md文档" />
       <recent name="E:\source\jieke-base" />
       <recent name="E:\source\jieke-base\119-100047701-专栏课-朱晔-Java 业务开发常见错误 100 例（完结）" />
@@ -214,6 +123,7 @@
       <workItem from="1732625315684" duration="1730000" />
       <workItem from="1732627135980" duration="367000" />
       <workItem from="1732718462364" duration="851000" />
+      <workItem from="1733141684908" duration="1558000" />
     </task>
     <task id="LOCAL-00001" summary="spring50讲">
       <created>1730043829902</created>
@@ -530,14 +440,6 @@
       <option name="project" value="LOCAL" />
       <updated>1730126313936</updated>
     </task>
-    <task id="LOCAL-00081" summary="掘金 nest">
-      <option name="closed" value="true" />
-      <created>1732328255742</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1732328255742</updated>
-    </task>
     <task id="LOCAL-00082" summary="austin">
       <option name="closed" value="true" />
       <created>1732328512941</created>
@@ -562,7 +464,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732718501305</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="你不知道的javascript">
+      <option name="closed" value="true" />
+      <created>1733144037411</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1733144037411</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -592,7 +502,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="java新特性" />
     <MESSAGE value="数据结构与算法" />
     <MESSAGE value="java核心面试" />
     <MESSAGE value="秒杀" />
@@ -617,7 +526,8 @@
     <MESSAGE value="掘金 nest" />
     <MESSAGE value="austin" />
     <MESSAGE value="密码学" />
-    <option name="LAST_COMMIT_MESSAGE" value="密码学" />
+    <MESSAGE value="你不知道的javascript" />
+    <option name="LAST_COMMIT_MESSAGE" value="你不知道的javascript" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
